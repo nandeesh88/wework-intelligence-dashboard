@@ -1,0 +1,61 @@
+month,location,space_type,units_sold,revenue,avg_price
+1,Bangalore - MG Road,Hot Desk,66,330000,5000
+2,Bangalore - MG Road,Hot Desk,60,300000,5000
+3,Bangalore - MG Road,Hot Desk,52,260000,5000
+1,Bangalore - MG Road,Dedicated Desk,70,560000,8000
+2,Bangalore - MG Road,Dedicated Desk,70,560000,8000
+3,Bangalore - MG Road,Dedicated Desk,59,472000,8000
+1,Bangalore - MG Road,Private Office,63,945000,15000
+2,Bangalore - MG Road,Private Office,69,1035000,15000
+3,Bangalore - MG Road,Private Office,59,885000,15000
+1,Bangalore - MG Road,Meeting Room,72,36000,500
+2,Bangalore - MG Road,Meeting Room,73,36500,500
+3,Bangalore - MG Road,Meeting Room,93,46500,500
+1,Mumbai - BKC,Hot Desk,67,335000,5000
+2,Mumbai - BKC,Hot Desk,61,305000,5000
+3,Mumbai - BKC,Hot Desk,54,270000,5000
+1,Mumbai - BKC,Dedicated Desk,35,280000,8000
+2,Mumbai - BKC,Dedicated Desk,34,272000,8000
+3,Mumbai - BKC,Dedicated Desk,26,208000,8000
+1,Mumbai - BKC,Private Office,44,660000,15000
+2,Mumbai - BKC,Private Office,47,705000,15000
+3,Mumbai - BKC,Private Office,33,495000,15000
+1,Mumbai - BKC,Meeting Room,24,12000,500
+2,Mumbai - BKC,Meeting Room,25,12500,500
+3,Mumbai - BKC,Meeting Room,23,11500,500
+1,Delhi - Connaught Place,Hot Desk,83,415000,5000
+2,Delhi - Connaught Place,Hot Desk,93,465000,5000
+3,Delhi - Connaught Place,Hot Desk,75,375000,5000
+1,Delhi - Connaught Place,Dedicated Desk,34,272000,8000
+2,Delhi - Connaught Place,Dedicated Desk,48,384000,8000
+3,Delhi - Connaught Place,Dedicated Desk,44,352000,8000
+1,Delhi - Connaught Place,Private Office,49,735000,15000
+2,Delhi - Connaught Place,Private Office,51,765000,15000
+3,Delhi - Connaught Place,Private Office,44,660000,15000
+1,Delhi - Connaught Place,Meeting Room,51,25500,500
+2,Delhi - Connaught Place,Meeting Room,55,27500,500
+3,Delhi - Connaught Place,Meeting Room,60,30000,500
+1,Pune - Koregaon Park,Hot Desk,91,455000,5000
+2,Pune - Koregaon Park,Hot Desk,84,420000,5000
+3,Pune - Koregaon Park,Hot Desk,68,340000,5000
+1,Pune - Koregaon Park,Dedicated Desk,89,712000,8000
+2,Pune - Koregaon Park,Dedicated Desk,90,720000,8000
+3,Pune - Koregaon Park,Dedicated Desk,69,552000,8000
+1,Pune - Koregaon Park,Private Office,79,1185000,15000
+2,Pune - Koregaon Park,Private Office,72,1080000,15000
+3,Pune - Koregaon Park,Private Office,68,1020000,15000
+1,Pune - Koregaon Park,Meeting Room,78,39000,500
+2,Pune - Koregaon Park,Meeting Room,58,29000,500
+3,Pune - Koregaon Park,Meeting Room,65,32500,500
+1,Hyderabad - Hitech City,Hot Desk,66,330000,5000
+2,Hyderabad - Hitech City,Hot Desk,77,385000,5000
+3,Hyderabad - Hitech City,Hot Desk,59,295000,5000
+1,Hyderabad - Hitech City,Dedicated Desk,63,504000,8000
+2,Hyderabad - Hitech City,Dedicated Desk,71,568000,8000
+3,Hyderabad - Hitech City,Dedicated Desk,75,600000,8000
+1,Hyderabad - Hitech City,Private Office,30,450000,15000
+2,Hyderabad - Hitech City,Private Office,28,420000,15000
+3,Hyderabad - Hitech City,Private Office,29,435000,15000
+1,Hyderabad - Hitech City,Meeting Room,62,31000,500
+2,Hyderabad - Hitech City,Meeting Room,49,24500,500
+3,Hyderabad - Hitech City,Meeting Room,62,31000,500

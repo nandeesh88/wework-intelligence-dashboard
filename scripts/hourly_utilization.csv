@@ -1,0 +1,386 @@
+datetime,location,hour,utilization_rate,bookings,walk_ins
+2025-12-09 09:00,Bangalore - MG Road,9,72.75,58,14
+2025-12-09 10:00,Bangalore - MG Road,10,75.32,60,15
+2025-12-09 11:00,Bangalore - MG Road,11,87.82,70,17
+2025-12-09 12:00,Bangalore - MG Road,12,89.4,71,17
+2025-12-09 13:00,Bangalore - MG Road,13,84.12,67,16
+2025-12-09 14:00,Bangalore - MG Road,14,81.16,64,16
+2025-12-09 15:00,Bangalore - MG Road,15,84.29,67,16
+2025-12-09 16:00,Bangalore - MG Road,16,65.43,52,13
+2025-12-09 17:00,Bangalore - MG Road,17,66.39,53,13
+2025-12-09 18:00,Bangalore - MG Road,18,50.8,40,10
+2025-12-09 19:00,Bangalore - MG Road,19,42.77,34,8
+2025-12-10 09:00,Bangalore - MG Road,9,64.63,51,12
+2025-12-10 10:00,Bangalore - MG Road,10,73.88,59,14
+2025-12-10 11:00,Bangalore - MG Road,11,90.6,72,18
+2025-12-10 12:00,Bangalore - MG Road,12,80.96,64,16
+2025-12-10 13:00,Bangalore - MG Road,13,86.11,68,17
+2025-12-10 14:00,Bangalore - MG Road,14,88.14,70,17
+2025-12-10 15:00,Bangalore - MG Road,15,86.24,68,17
+2025-12-10 16:00,Bangalore - MG Road,16,64.14,51,12
+2025-12-10 17:00,Bangalore - MG Road,17,68.4,54,13
+2025-12-10 18:00,Bangalore - MG Road,18,58.1,46,11
+2025-12-10 19:00,Bangalore - MG Road,19,51.68,41,10
+2025-12-11 09:00,Bangalore - MG Road,9,73.91,59,14
+2025-12-11 10:00,Bangalore - MG Road,10,77.13,61,15
+2025-12-11 11:00,Bangalore - MG Road,11,91.48,73,18
+2025-12-11 12:00,Bangalore - MG Road,12,85.71,68,17
+2025-12-11 13:00,Bangalore - MG Road,13,80.09,64,16
+2025-12-11 14:00,Bangalore - MG Road,14,85.28,68,17
+2025-12-11 15:00,Bangalore - MG Road,15,91.3,73,18
+2025-12-11 16:00,Bangalore - MG Road,16,77.07,61,15
+2025-12-11 17:00,Bangalore - MG Road,17,79.07,63,15
+2025-12-11 18:00,Bangalore - MG Road,18,48.38,38,9
+2025-12-11 19:00,Bangalore - MG Road,19,54.95,43,10
+2025-12-12 09:00,Bangalore - MG Road,9,70.92,56,14
+2025-12-12 10:00,Bangalore - MG Road,10,72.07,57,14
+2025-12-12 11:00,Bangalore - MG Road,11,83.31,66,16
+2025-12-12 12:00,Bangalore - MG Road,12,83.29,66,16
+2025-12-12 13:00,Bangalore - MG Road,13,86.54,69,17
+2025-12-12 14:00,Bangalore - MG Road,14,80.44,64,16
+2025-12-12 15:00,Bangalore - MG Road,15,85.04,68,17
+2025-12-12 16:00,Bangalore - MG Road,16,73.58,58,14
+2025-12-12 17:00,Bangalore - MG Road,17,68.09,54,13
+2025-12-12 18:00,Bangalore - MG Road,18,43.3,34,8
+2025-12-12 19:00,Bangalore - MG Road,19,49.35,39,9
+2025-12-13 09:00,Bangalore - MG Road,9,62.55,50,12
+2025-12-13 10:00,Bangalore - MG Road,10,72.45,57,14
+2025-12-13 11:00,Bangalore - MG Road,11,80.4,64,16
+2025-12-13 12:00,Bangalore - MG Road,12,85.91,68,17
+2025-12-13 13:00,Bangalore - MG Road,13,88.47,70,17
+2025-12-13 14:00,Bangalore - MG Road,14,80.41,64,16
+2025-12-13 15:00,Bangalore - MG Road,15,89.64,71,17
+2025-12-13 16:00,Bangalore - MG Road,16,62.71,50,12
+2025-12-13 17:00,Bangalore - MG Road,17,69.23,55,13
+2025-12-13 18:00,Bangalore - MG Road,18,41.01,32,8
+2025-12-13 19:00,Bangalore - MG Road,19,47.58,38,9
+2025-12-14 09:00,Bangalore - MG Road,9,64.23,51,12
+2025-12-14 10:00,Bangalore - MG Road,10,66.54,53,13
+2025-12-14 11:00,Bangalore - MG Road,11,91.42,73,18
+2025-12-14 12:00,Bangalore - MG Road,12,85.69,68,17
+2025-12-14 13:00,Bangalore - MG Road,13,91.28,73,18
+2025-12-14 14:00,Bangalore - MG Road,14,92.48,73,18
+2025-12-14 15:00,Bangalore - MG Road,15,83.78,67,16
+2025-12-14 16:00,Bangalore - MG Road,16,61.64,49,12
+2025-12-14 17:00,Bangalore - MG Road,17,60.39,48,12
+2025-12-14 18:00,Bangalore - MG Road,18,50.79,40,10
+2025-12-14 19:00,Bangalore - MG Road,19,60.0,47,11
+2025-12-15 09:00,Bangalore - MG Road,9,67.0,53,13
+2025-12-15 10:00,Bangalore - MG Road,10,73.0,58,14
+2025-12-15 11:00,Bangalore - MG Road,11,91.72,73,18
+2025-12-15 12:00,Bangalore - MG Road,12,89.78,71,17
+2025-12-15 13:00,Bangalore - MG Road,13,91.31,73,18
+2025-12-15 14:00,Bangalore - MG Road,14,94.24,75,18
+2025-12-15 15:00,Bangalore - MG Road,15,82.99,66,16
+2025-12-15 16:00,Bangalore - MG Road,16,60.41,48,12
+2025-12-15 17:00,Bangalore - MG Road,17,63.05,50,12
+2025-12-15 18:00,Bangalore - MG Road,18,42.52,34,8
+2025-12-15 19:00,Bangalore - MG Road,19,53.39,42,10
+2025-12-09 09:00,Mumbai - BKC,9,71.28,57,14
+2025-12-09 10:00,Mumbai - BKC,10,64.36,51,12
+2025-12-09 11:00,Mumbai - BKC,11,90.49,72,18
+2025-12-09 12:00,Mumbai - BKC,12,91.5,73,18
+2025-12-09 13:00,Mumbai - BKC,13,82.52,66,16
+2025-12-09 14:00,Mumbai - BKC,14,89.11,71,17
+2025-12-09 15:00,Mumbai - BKC,15,91.22,72,18
+2025-12-09 16:00,Mumbai - BKC,16,62.29,49,12
+2025-12-09 17:00,Mumbai - BKC,17,76.39,61,15
+2025-12-09 18:00,Mumbai - BKC,18,59.29,47,11
+2025-12-09 19:00,Mumbai - BKC,19,42.16,33,8
+2025-12-10 09:00,Mumbai - BKC,9,60.51,48,12
+2025-12-10 10:00,Mumbai - BKC,10,66.24,52,13
+2025-12-10 11:00,Mumbai - BKC,11,90.16,72,18
+2025-12-10 12:00,Mumbai - BKC,12,94.37,75,18
+2025-12-10 13:00,Mumbai - BKC,13,85.95,68,17
+2025-12-10 14:00,Mumbai - BKC,14,90.73,72,18
+2025-12-10 15:00,Mumbai - BKC,15,81.14,64,16
+2025-12-10 16:00,Mumbai - BKC,16,73.81,59,14
+2025-12-10 17:00,Mumbai - BKC,17,72.54,58,14
+2025-12-10 18:00,Mumbai - BKC,18,42.04,33,8
+2025-12-10 19:00,Mumbai - BKC,19,55.45,44,11
+2025-12-11 09:00,Mumbai - BKC,9,77.01,61,15
+2025-12-11 10:00,Mumbai - BKC,10,72.01,57,14
+2025-12-11 11:00,Mumbai - BKC,11,81.82,65,16
+2025-12-11 12:00,Mumbai - BKC,12,94.76,75,18
+2025-12-11 13:00,Mumbai - BKC,13,91.74,73,18
+2025-12-11 14:00,Mumbai - BKC,14,85.21,68,17
+2025-12-11 15:00,Mumbai - BKC,15,86.43,69,17
+2025-12-11 16:00,Mumbai - BKC,16,67.41,53,13
+2025-12-11 17:00,Mumbai - BKC,17,70.12,56,14
+2025-12-11 18:00,Mumbai - BKC,18,46.82,37,9
+2025-12-11 19:00,Mumbai - BKC,19,56.99,45,11
+2025-12-12 09:00,Mumbai - BKC,9,76.45,61,15
+2025-12-12 10:00,Mumbai - BKC,10,62.11,49,12
+2025-12-12 11:00,Mumbai - BKC,11,94.41,75,18
+2025-12-12 12:00,Mumbai - BKC,12,89.53,71,17
+2025-12-12 13:00,Mumbai - BKC,13,92.43,73,18
+2025-12-12 14:00,Mumbai - BKC,14,90.61,72,18
+2025-12-12 15:00,Mumbai - BKC,15,86.53,69,17
+2025-12-12 16:00,Mumbai - BKC,16,74.68,59,14
+2025-12-12 17:00,Mumbai - BKC,17,79.31,63,15
+2025-12-12 18:00,Mumbai - BKC,18,45.4,36,9
+2025-12-12 19:00,Mumbai - BKC,19,56.16,44,11
+2025-12-13 09:00,Mumbai - BKC,9,70.76,56,14
+2025-12-13 10:00,Mumbai - BKC,10,69.67,55,13
+2025-12-13 11:00,Mumbai - BKC,11,86.53,69,17
+2025-12-13 12:00,Mumbai - BKC,12,90.97,72,18
+2025-12-13 13:00,Mumbai - BKC,13,84.03,67,16
+2025-12-13 14:00,Mumbai - BKC,14,92.78,74,18
+2025-12-13 15:00,Mumbai - BKC,15,92.46,73,18
+2025-12-13 16:00,Mumbai - BKC,16,61.73,49,12
+2025-12-13 17:00,Mumbai - BKC,17,77.63,62,15
+2025-12-13 18:00,Mumbai - BKC,18,44.88,35,8
+2025-12-13 19:00,Mumbai - BKC,19,49.29,39,9
+2025-12-14 09:00,Mumbai - BKC,9,72.21,57,14
+2025-12-14 10:00,Mumbai - BKC,10,67.58,54,13
+2025-12-14 11:00,Mumbai - BKC,11,80.43,64,16
+2025-12-14 12:00,Mumbai - BKC,12,92.76,74,18
+2025-12-14 13:00,Mumbai - BKC,13,82.73,66,16
+2025-12-14 14:00,Mumbai - BKC,14,83.18,66,16
+2025-12-14 15:00,Mumbai - BKC,15,91.97,73,18
+2025-12-14 16:00,Mumbai - BKC,16,66.81,53,13
+2025-12-14 17:00,Mumbai - BKC,17,77.61,62,15
+2025-12-14 18:00,Mumbai - BKC,18,54.02,43,10
+2025-12-14 19:00,Mumbai - BKC,19,45.53,36,9
+2025-12-15 09:00,Mumbai - BKC,9,60.2,48,12
+2025-12-15 10:00,Mumbai - BKC,10,78.96,63,15
+2025-12-15 11:00,Mumbai - BKC,11,81.28,65,16
+2025-12-15 12:00,Mumbai - BKC,12,90.8,72,18
+2025-12-15 13:00,Mumbai - BKC,13,87.33,69,17
+2025-12-15 14:00,Mumbai - BKC,14,91.37,73,18
+2025-12-15 15:00,Mumbai - BKC,15,90.36,72,18
+2025-12-15 16:00,Mumbai - BKC,16,72.92,58,14
+2025-12-15 17:00,Mumbai - BKC,17,69.82,55,13
+2025-12-15 18:00,Mumbai - BKC,18,55.86,44,11
+2025-12-15 19:00,Mumbai - BKC,19,41.86,33,8
+2025-12-09 09:00,Delhi - Connaught Place,9,64.43,51,12
+2025-12-09 10:00,Delhi - Connaught Place,10,73.84,59,14
+2025-12-09 11:00,Delhi - Connaught Place,11,84.59,67,16
+2025-12-09 12:00,Delhi - Connaught Place,12,88.72,70,17
+2025-12-09 13:00,Delhi - Connaught Place,13,87.1,69,17
+2025-12-09 14:00,Delhi - Connaught Place,14,87.96,70,17
+2025-12-09 15:00,Delhi - Connaught Place,15,86.38,69,17
+2025-12-09 16:00,Delhi - Connaught Place,16,74.92,59,14
+2025-12-09 17:00,Delhi - Connaught Place,17,66.62,53,13
+2025-12-09 18:00,Delhi - Connaught Place,18,54.06,43,10
+2025-12-09 19:00,Delhi - Connaught Place,19,45.42,36,9
+2025-12-10 09:00,Delhi - Connaught Place,9,65.03,52,13
+2025-12-10 10:00,Delhi - Connaught Place,10,62.41,49,12
+2025-12-10 11:00,Delhi - Connaught Place,11,82.89,66,16
+2025-12-10 12:00,Delhi - Connaught Place,12,81.79,65,16
+2025-12-10 13:00,Delhi - Connaught Place,13,88.04,70,17
+2025-12-10 14:00,Delhi - Connaught Place,14,91.43,73,18
+2025-12-10 15:00,Delhi - Connaught Place,15,82.78,66,16
+2025-12-10 16:00,Delhi - Connaught Place,16,64.33,51,12
+2025-12-10 17:00,Delhi - Connaught Place,17,69.68,55,13
+2025-12-10 18:00,Delhi - Connaught Place,18,54.49,43,10
+2025-12-10 19:00,Delhi - Connaught Place,19,59.53,47,11
+2025-12-11 09:00,Delhi - Connaught Place,9,70.49,56,14
+2025-12-11 10:00,Delhi - Connaught Place,10,65.66,52,13
+2025-12-11 11:00,Delhi - Connaught Place,11,81.51,65,16
+2025-12-11 12:00,Delhi - Connaught Place,12,82.91,66,16
+2025-12-11 13:00,Delhi - Connaught Place,13,83.41,66,16
+2025-12-11 14:00,Delhi - Connaught Place,14,82.69,66,16
+2025-12-11 15:00,Delhi - Connaught Place,15,80.21,64,16
+2025-12-11 16:00,Delhi - Connaught Place,16,70.68,56,14
+2025-12-11 17:00,Delhi - Connaught Place,17,65.49,52,13
+2025-12-11 18:00,Delhi - Connaught Place,18,59.49,47,11
+2025-12-11 19:00,Delhi - Connaught Place,19,51.07,40,10
+2025-12-12 09:00,Delhi - Connaught Place,9,73.95,59,14
+2025-12-12 10:00,Delhi - Connaught Place,10,62.53,50,12
+2025-12-12 11:00,Delhi - Connaught Place,11,93.03,74,18
+2025-12-12 12:00,Delhi - Connaught Place,12,87.36,69,17
+2025-12-12 13:00,Delhi - Connaught Place,13,93.09,74,18
+2025-12-12 14:00,Delhi - Connaught Place,14,88.61,70,17
+2025-12-12 15:00,Delhi - Connaught Place,15,87.04,69,17
+2025-12-12 16:00,Delhi - Connaught Place,16,68.81,55,13
+2025-12-12 17:00,Delhi - Connaught Place,17,63.69,50,12
+2025-12-12 18:00,Delhi - Connaught Place,18,41.03,32,8
+2025-12-12 19:00,Delhi - Connaught Place,19,58.82,47,11
+2025-12-13 09:00,Delhi - Connaught Place,9,69.55,55,13
+2025-12-13 10:00,Delhi - Connaught Place,10,76.44,61,15
+2025-12-13 11:00,Delhi - Connaught Place,11,86.01,68,17
+2025-12-13 12:00,Delhi - Connaught Place,12,81.11,64,16
+2025-12-13 13:00,Delhi - Connaught Place,13,89.44,71,17
+2025-12-13 14:00,Delhi - Connaught Place,14,80.8,64,16
+2025-12-13 15:00,Delhi - Connaught Place,15,82.24,65,16
+2025-12-13 16:00,Delhi - Connaught Place,16,71.26,57,14
+2025-12-13 17:00,Delhi - Connaught Place,17,66.08,52,13
+2025-12-13 18:00,Delhi - Connaught Place,18,59.88,47,11
+2025-12-13 19:00,Delhi - Connaught Place,19,42.37,33,8
+2025-12-14 09:00,Delhi - Connaught Place,9,75.29,60,15
+2025-12-14 10:00,Delhi - Connaught Place,10,72.13,57,14
+2025-12-14 11:00,Delhi - Connaught Place,11,91.86,73,18
+2025-12-14 12:00,Delhi - Connaught Place,12,83.39,66,16
+2025-12-14 13:00,Delhi - Connaught Place,13,87.84,70,17
+2025-12-14 14:00,Delhi - Connaught Place,14,86.76,69,17
+2025-12-14 15:00,Delhi - Connaught Place,15,86.64,69,17
+2025-12-14 16:00,Delhi - Connaught Place,16,77.2,61,15
+2025-12-14 17:00,Delhi - Connaught Place,17,79.8,63,15
+2025-12-14 18:00,Delhi - Connaught Place,18,46.11,36,9
+2025-12-14 19:00,Delhi - Connaught Place,19,52.42,41,10
+2025-12-15 09:00,Delhi - Connaught Place,9,72.19,57,14
+2025-12-15 10:00,Delhi - Connaught Place,10,74.8,59,14
+2025-12-15 11:00,Delhi - Connaught Place,11,94.21,75,18
+2025-12-15 12:00,Delhi - Connaught Place,12,83.12,66,16
+2025-12-15 13:00,Delhi - Connaught Place,13,83.17,66,16
+2025-12-15 14:00,Delhi - Connaught Place,14,89.91,71,17
+2025-12-15 15:00,Delhi - Connaught Place,15,82.36,65,16
+2025-12-15 16:00,Delhi - Connaught Place,16,63.48,50,12
+2025-12-15 17:00,Delhi - Connaught Place,17,61.5,49,12
+2025-12-15 18:00,Delhi - Connaught Place,18,40.05,32,8
+2025-12-15 19:00,Delhi - Connaught Place,19,49.01,39,9
+2025-12-09 09:00,Pune - Koregaon Park,9,71.88,57,14
+2025-12-09 10:00,Pune - Koregaon Park,10,65.83,52,13
+2025-12-09 11:00,Pune - Koregaon Park,11,83.47,66,16
+2025-12-09 12:00,Pune - Koregaon Park,12,90.6,72,18
+2025-12-09 13:00,Pune - Koregaon Park,13,90.54,72,18
+2025-12-09 14:00,Pune - Koregaon Park,14,86.81,69,17
+2025-12-09 15:00,Pune - Koregaon Park,15,90.31,72,18
+2025-12-09 16:00,Pune - Koregaon Park,16,78.48,62,15
+2025-12-09 17:00,Pune - Koregaon Park,17,75.76,60,15
+2025-12-09 18:00,Pune - Koregaon Park,18,52.5,42,10
+2025-12-09 19:00,Pune - Koregaon Park,19,53.22,42,10
+2025-12-10 09:00,Pune - Koregaon Park,9,78.67,62,15
+2025-12-10 10:00,Pune - Koregaon Park,10,68.5,54,13
+2025-12-10 11:00,Pune - Koregaon Park,11,88.17,70,17
+2025-12-10 12:00,Pune - Koregaon Park,12,89.71,71,17
+2025-12-10 13:00,Pune - Koregaon Park,13,93.63,74,18
+2025-12-10 14:00,Pune - Koregaon Park,14,92.4,73,18
+2025-12-10 15:00,Pune - Koregaon Park,15,81.07,64,16
+2025-12-10 16:00,Pune - Koregaon Park,16,63.32,50,12
+2025-12-10 17:00,Pune - Koregaon Park,17,66.15,52,13
+2025-12-10 18:00,Pune - Koregaon Park,18,54.98,43,10
+2025-12-10 19:00,Pune - Koregaon Park,19,51.38,41,10
+2025-12-11 09:00,Pune - Koregaon Park,9,65.77,52,13
+2025-12-11 10:00,Pune - Koregaon Park,10,62.49,49,12
+2025-12-11 11:00,Pune - Koregaon Park,11,90.33,72,18
+2025-12-11 12:00,Pune - Koregaon Park,12,90.5,72,18
+2025-12-11 13:00,Pune - Koregaon Park,13,94.14,75,18
+2025-12-11 14:00,Pune - Koregaon Park,14,87.51,70,17
+2025-12-11 15:00,Pune - Koregaon Park,15,87.41,69,17
+2025-12-11 16:00,Pune - Koregaon Park,16,61.61,49,12
+2025-12-11 17:00,Pune - Koregaon Park,17,60.8,48,12
+2025-12-11 18:00,Pune - Koregaon Park,18,48.64,38,9
+2025-12-11 19:00,Pune - Koregaon Park,19,46.45,37,9
+2025-12-12 09:00,Pune - Koregaon Park,9,65.01,52,13
+2025-12-12 10:00,Pune - Koregaon Park,10,61.83,49,12
+2025-12-12 11:00,Pune - Koregaon Park,11,94.43,75,18
+2025-12-12 12:00,Pune - Koregaon Park,12,92.54,74,18
+2025-12-12 13:00,Pune - Koregaon Park,13,88.63,70,17
+2025-12-12 14:00,Pune - Koregaon Park,14,94.26,75,18
+2025-12-12 15:00,Pune - Koregaon Park,15,94.99,75,18
+2025-12-12 16:00,Pune - Koregaon Park,16,73.45,58,14
+2025-12-12 17:00,Pune - Koregaon Park,17,65.39,52,13
+2025-12-12 18:00,Pune - Koregaon Park,18,40.8,32,8
+2025-12-12 19:00,Pune - Koregaon Park,19,55.13,44,11
+2025-12-13 09:00,Pune - Koregaon Park,9,69.41,55,13
+2025-12-13 10:00,Pune - Koregaon Park,10,73.03,58,14
+2025-12-13 11:00,Pune - Koregaon Park,11,93.74,74,18
+2025-12-13 12:00,Pune - Koregaon Park,12,82.72,66,16
+2025-12-13 13:00,Pune - Koregaon Park,13,88.78,71,17
+2025-12-13 14:00,Pune - Koregaon Park,14,89.52,71,17
+2025-12-13 15:00,Pune - Koregaon Park,15,87.38,69,17
+2025-12-13 16:00,Pune - Koregaon Park,16,61.82,49,12
+2025-12-13 17:00,Pune - Koregaon Park,17,66.96,53,13
+2025-12-13 18:00,Pune - Koregaon Park,18,46.67,37,9
+2025-12-13 19:00,Pune - Koregaon Park,19,53.4,42,10
+2025-12-14 09:00,Pune - Koregaon Park,9,77.15,61,15
+2025-12-14 10:00,Pune - Koregaon Park,10,66.6,53,13
+2025-12-14 11:00,Pune - Koregaon Park,11,90.41,72,18
+2025-12-14 12:00,Pune - Koregaon Park,12,84.32,67,16
+2025-12-14 13:00,Pune - Koregaon Park,13,94.18,75,18
+2025-12-14 14:00,Pune - Koregaon Park,14,92.2,73,18
+2025-12-14 15:00,Pune - Koregaon Park,15,88.25,70,17
+2025-12-14 16:00,Pune - Koregaon Park,16,69.1,55,13
+2025-12-14 17:00,Pune - Koregaon Park,17,66.29,53,13
+2025-12-14 18:00,Pune - Koregaon Park,18,46.47,37,9
+2025-12-14 19:00,Pune - Koregaon Park,19,59.4,47,11
+2025-12-15 09:00,Pune - Koregaon Park,9,68.08,54,13
+2025-12-15 10:00,Pune - Koregaon Park,10,70.29,56,14
+2025-12-15 11:00,Pune - Koregaon Park,11,94.82,75,18
+2025-12-15 12:00,Pune - Koregaon Park,12,89.86,71,17
+2025-12-15 13:00,Pune - Koregaon Park,13,88.14,70,17
+2025-12-15 14:00,Pune - Koregaon Park,14,86.2,68,17
+2025-12-15 15:00,Pune - Koregaon Park,15,82.81,66,16
+2025-12-15 16:00,Pune - Koregaon Park,16,67.24,53,13
+2025-12-15 17:00,Pune - Koregaon Park,17,75.13,60,15
+2025-12-15 18:00,Pune - Koregaon Park,18,52.51,42,10
+2025-12-15 19:00,Pune - Koregaon Park,19,55.2,44,11
+2025-12-09 09:00,Hyderabad - Hitech City,9,64.07,51,12
+2025-12-09 10:00,Hyderabad - Hitech City,10,70.98,56,14
+2025-12-09 11:00,Hyderabad - Hitech City,11,93.92,75,18
+2025-12-09 12:00,Hyderabad - Hitech City,12,86.57,69,17
+2025-12-09 13:00,Hyderabad - Hitech City,13,90.47,72,18
+2025-12-09 14:00,Hyderabad - Hitech City,14,81.82,65,16
+2025-12-09 15:00,Hyderabad - Hitech City,15,94.6,75,18
+2025-12-09 16:00,Hyderabad - Hitech City,16,72.18,57,14
+2025-12-09 17:00,Hyderabad - Hitech City,17,64.79,51,12
+2025-12-09 18:00,Hyderabad - Hitech City,18,43.17,34,8
+2025-12-09 19:00,Hyderabad - Hitech City,19,51.02,40,10
+2025-12-10 09:00,Hyderabad - Hitech City,9,71.05,56,14
+2025-12-10 10:00,Hyderabad - Hitech City,10,61.86,49,12
+2025-12-10 11:00,Hyderabad - Hitech City,11,94.88,75,18
+2025-12-10 12:00,Hyderabad - Hitech City,12,93.69,74,18
+2025-12-10 13:00,Hyderabad - Hitech City,13,86.92,69,17
+2025-12-10 14:00,Hyderabad - Hitech City,14,81.76,65,16
+2025-12-10 15:00,Hyderabad - Hitech City,15,92.48,73,18
+2025-12-10 16:00,Hyderabad - Hitech City,16,69.97,55,13
+2025-12-10 17:00,Hyderabad - Hitech City,17,74.33,59,14
+2025-12-10 18:00,Hyderabad - Hitech City,18,50.18,40,10
+2025-12-10 19:00,Hyderabad - Hitech City,19,45.47,36,9
+2025-12-11 09:00,Hyderabad - Hitech City,9,76.69,61,15
+2025-12-11 10:00,Hyderabad - Hitech City,10,79.6,63,15
+2025-12-11 11:00,Hyderabad - Hitech City,11,83.66,66,16
+2025-12-11 12:00,Hyderabad - Hitech City,12,88.27,70,17
+2025-12-11 13:00,Hyderabad - Hitech City,13,85.75,68,17
+2025-12-11 14:00,Hyderabad - Hitech City,14,93.83,75,18
+2025-12-11 15:00,Hyderabad - Hitech City,15,87.62,70,17
+2025-12-11 16:00,Hyderabad - Hitech City,16,77.59,62,15
+2025-12-11 17:00,Hyderabad - Hitech City,17,77.28,61,15
+2025-12-11 18:00,Hyderabad - Hitech City,18,45.52,36,9
+2025-12-11 19:00,Hyderabad - Hitech City,19,55.8,44,11
+2025-12-12 09:00,Hyderabad - Hitech City,9,68.3,54,13
+2025-12-12 10:00,Hyderabad - Hitech City,10,78.68,62,15
+2025-12-12 11:00,Hyderabad - Hitech City,11,87.62,70,17
+2025-12-12 12:00,Hyderabad - Hitech City,12,92.31,73,18
+2025-12-12 13:00,Hyderabad - Hitech City,13,84.24,67,16
+2025-12-12 14:00,Hyderabad - Hitech City,14,84.48,67,16
+2025-12-12 15:00,Hyderabad - Hitech City,15,88.8,71,17
+2025-12-12 16:00,Hyderabad - Hitech City,16,79.98,63,15
+2025-12-12 17:00,Hyderabad - Hitech City,17,69.79,55,13
+2025-12-12 18:00,Hyderabad - Hitech City,18,42.97,34,8
+2025-12-12 19:00,Hyderabad - Hitech City,19,50.77,40,10
+2025-12-13 09:00,Hyderabad - Hitech City,9,66.9,53,13
+2025-12-13 10:00,Hyderabad - Hitech City,10,71.04,56,14
+2025-12-13 11:00,Hyderabad - Hitech City,11,88.15,70,17
+2025-12-13 12:00,Hyderabad - Hitech City,12,86.83,69,17
+2025-12-13 13:00,Hyderabad - Hitech City,13,84.83,67,16
+2025-12-13 14:00,Hyderabad - Hitech City,14,82.83,66,16
+2025-12-13 15:00,Hyderabad - Hitech City,15,90.46,72,18
+2025-12-13 16:00,Hyderabad - Hitech City,16,71.44,57,14
+2025-12-13 17:00,Hyderabad - Hitech City,17,64.67,51,12
+2025-12-13 18:00,Hyderabad - Hitech City,18,55.51,44,11
+2025-12-13 19:00,Hyderabad - Hitech City,19,40.87,32,8
+2025-12-14 09:00,Hyderabad - Hitech City,9,74.89,59,14
+2025-12-14 10:00,Hyderabad - Hitech City,10,74.1,59,14
+2025-12-14 11:00,Hyderabad - Hitech City,11,92.17,73,18
+2025-12-14 12:00,Hyderabad - Hitech City,12,85.79,68,17
+2025-12-14 13:00,Hyderabad - Hitech City,13,89.96,71,17
+2025-12-14 14:00,Hyderabad - Hitech City,14,92.31,73,18
+2025-12-14 15:00,Hyderabad - Hitech City,15,94.71,75,18
+2025-12-14 16:00,Hyderabad - Hitech City,16,69.91,55,13
+2025-12-14 17:00,Hyderabad - Hitech City,17,60.74,48,12
+2025-12-14 18:00,Hyderabad - Hitech City,18,50.05,40,10
+2025-12-14 19:00,Hyderabad - Hitech City,19,51.8,41,10
+2025-12-15 09:00,Hyderabad - Hitech City,9,77.39,61,15
+2025-12-15 10:00,Hyderabad - Hitech City,10,77.48,61,15
+2025-12-15 11:00,Hyderabad - Hitech City,11,86.6,69,17
+2025-12-15 12:00,Hyderabad - Hitech City,12,87.89,70,17
+2025-12-15 13:00,Hyderabad - Hitech City,13,86.85,69,17
+2025-12-15 14:00,Hyderabad - Hitech City,14,90.84,72,18
+2025-12-15 15:00,Hyderabad - Hitech City,15,86.15,68,17
+2025-12-15 16:00,Hyderabad - Hitech City,16,73.1,58,14
+2025-12-15 17:00,Hyderabad - Hitech City,17,63.09,50,12
+2025-12-15 18:00,Hyderabad - Hitech City,18,49.39,39,9
+2025-12-15 19:00,Hyderabad - Hitech City,19,59.38,47,11

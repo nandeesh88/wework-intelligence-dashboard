@@ -1,0 +1,451 @@
+date,location,occupancy_rate,capacity,occupied_desks,day_of_week
+2025-09-17,Bangalore - MG Road,70.22,100,70,Wednesday
+2025-09-18,Bangalore - MG Road,76.52,100,76,Thursday
+2025-09-19,Bangalore - MG Road,75.28,100,75,Friday
+2025-09-20,Bangalore - MG Road,35.77,100,35,Saturday
+2025-09-21,Bangalore - MG Road,34.87,100,34,Sunday
+2025-09-22,Bangalore - MG Road,92.17,100,92,Monday
+2025-09-23,Bangalore - MG Road,72.1,100,72,Tuesday
+2025-09-24,Bangalore - MG Road,80.53,100,80,Wednesday
+2025-09-25,Bangalore - MG Road,70.78,100,70,Thursday
+2025-09-26,Bangalore - MG Road,75.56,100,75,Friday
+2025-09-27,Bangalore - MG Road,32.48,100,32,Saturday
+2025-09-28,Bangalore - MG Road,24.91,100,24,Sunday
+2025-09-29,Bangalore - MG Road,75.23,100,75,Monday
+2025-09-30,Bangalore - MG Road,86.56,100,86,Tuesday
+2025-10-01,Bangalore - MG Road,83.99,100,83,Wednesday
+2025-10-02,Bangalore - MG Road,75.94,100,75,Thursday
+2025-10-03,Bangalore - MG Road,85.21,100,85,Friday
+2025-10-04,Bangalore - MG Road,37.71,100,37,Saturday
+2025-10-05,Bangalore - MG Road,24.98,100,24,Sunday
+2025-10-06,Bangalore - MG Road,90.79,100,90,Monday
+2025-10-07,Bangalore - MG Road,88.16,100,88,Tuesday
+2025-10-08,Bangalore - MG Road,79.26,100,79,Wednesday
+2025-10-09,Bangalore - MG Road,74.7,100,74,Thursday
+2025-10-10,Bangalore - MG Road,94.8,100,94,Friday
+2025-10-11,Bangalore - MG Road,30.57,100,30,Saturday
+2025-10-12,Bangalore - MG Road,26.74,100,26,Sunday
+2025-10-13,Bangalore - MG Road,73.45,100,73,Monday
+2025-10-14,Bangalore - MG Road,92.28,100,92,Tuesday
+2025-10-15,Bangalore - MG Road,86.24,100,86,Wednesday
+2025-10-16,Bangalore - MG Road,91.38,100,91,Thursday
+2025-10-17,Bangalore - MG Road,89.5,100,89,Friday
+2025-10-18,Bangalore - MG Road,34.14,100,34,Saturday
+2025-10-19,Bangalore - MG Road,41.15,100,41,Sunday
+2025-10-20,Bangalore - MG Road,80.89,100,80,Monday
+2025-10-21,Bangalore - MG Road,85.28,100,85,Tuesday
+2025-10-22,Bangalore - MG Road,92.27,100,92,Wednesday
+2025-10-23,Bangalore - MG Road,87.05,100,87,Thursday
+2025-10-24,Bangalore - MG Road,93.19,100,93,Friday
+2025-10-25,Bangalore - MG Road,35.18,100,35,Saturday
+2025-10-26,Bangalore - MG Road,37.26,100,37,Sunday
+2025-10-27,Bangalore - MG Road,72.96,100,72,Monday
+2025-10-28,Bangalore - MG Road,77.57,100,77,Tuesday
+2025-10-29,Bangalore - MG Road,79.16,100,79,Wednesday
+2025-10-30,Bangalore - MG Road,73.98,100,73,Thursday
+2025-10-31,Bangalore - MG Road,77.86,100,77,Friday
+2025-11-01,Bangalore - MG Road,27.99,100,27,Saturday
+2025-11-02,Bangalore - MG Road,30.86,100,30,Sunday
+2025-11-03,Bangalore - MG Road,88.09,100,88,Monday
+2025-11-04,Bangalore - MG Road,81.38,100,81,Tuesday
+2025-11-05,Bangalore - MG Road,81.57,100,81,Wednesday
+2025-11-06,Bangalore - MG Road,77.61,100,77,Thursday
+2025-11-07,Bangalore - MG Road,79.1,100,79,Friday
+2025-11-08,Bangalore - MG Road,41.68,100,41,Saturday
+2025-11-09,Bangalore - MG Road,37.14,100,37,Sunday
+2025-11-10,Bangalore - MG Road,87.82,100,87,Monday
+2025-11-11,Bangalore - MG Road,76.93,100,76,Tuesday
+2025-11-12,Bangalore - MG Road,90.93,100,90,Wednesday
+2025-11-13,Bangalore - MG Road,76.84,100,76,Thursday
+2025-11-14,Bangalore - MG Road,82.3,100,82,Friday
+2025-11-15,Bangalore - MG Road,42.91,100,42,Saturday
+2025-11-16,Bangalore - MG Road,37.4,100,37,Sunday
+2025-11-17,Bangalore - MG Road,86.9,100,86,Monday
+2025-11-18,Bangalore - MG Road,90.15,100,90,Tuesday
+2025-11-19,Bangalore - MG Road,94.16,100,94,Wednesday
+2025-11-20,Bangalore - MG Road,92.55,100,92,Thursday
+2025-11-21,Bangalore - MG Road,78.93,100,78,Friday
+2025-11-22,Bangalore - MG Road,28.06,100,28,Saturday
+2025-11-23,Bangalore - MG Road,32.62,100,32,Sunday
+2025-11-24,Bangalore - MG Road,80.06,100,80,Monday
+2025-11-25,Bangalore - MG Road,78.7,100,78,Tuesday
+2025-11-26,Bangalore - MG Road,97.05,100,97,Wednesday
+2025-11-27,Bangalore - MG Road,95.45,100,95,Thursday
+2025-11-28,Bangalore - MG Road,81.46,100,81,Friday
+2025-11-29,Bangalore - MG Road,38.37,100,38,Saturday
+2025-11-30,Bangalore - MG Road,34.29,100,34,Sunday
+2025-12-01,Bangalore - MG Road,96.62,100,96,Monday
+2025-12-02,Bangalore - MG Road,85.28,100,85,Tuesday
+2025-12-03,Bangalore - MG Road,80.49,100,80,Wednesday
+2025-12-04,Bangalore - MG Road,80.09,100,80,Thursday
+2025-12-05,Bangalore - MG Road,88.01,100,88,Friday
+2025-12-06,Bangalore - MG Road,32.5,100,32,Saturday
+2025-12-07,Bangalore - MG Road,37.68,100,37,Sunday
+2025-12-08,Bangalore - MG Road,96.59,100,96,Monday
+2025-12-09,Bangalore - MG Road,84.19,100,84,Tuesday
+2025-12-10,Bangalore - MG Road,79.74,100,79,Wednesday
+2025-12-11,Bangalore - MG Road,99.25,100,99,Thursday
+2025-12-12,Bangalore - MG Road,87.11,100,87,Friday
+2025-12-13,Bangalore - MG Road,30.16,100,30,Saturday
+2025-12-14,Bangalore - MG Road,29.52,100,29,Sunday
+2025-12-15,Bangalore - MG Road,77.28,100,77,Monday
+2025-09-17,Mumbai - BKC,89.21,100,89,Wednesday
+2025-09-18,Mumbai - BKC,80.02,100,80,Thursday
+2025-09-19,Mumbai - BKC,71.11,100,71,Friday
+2025-09-20,Mumbai - BKC,30.05,100,30,Saturday
+2025-09-21,Mumbai - BKC,39.87,100,39,Sunday
+2025-09-22,Mumbai - BKC,82.92,100,82,Monday
+2025-09-23,Mumbai - BKC,94.02,100,94,Tuesday
+2025-09-24,Mumbai - BKC,91.32,100,91,Wednesday
+2025-09-25,Mumbai - BKC,70.14,100,70,Thursday
+2025-09-26,Mumbai - BKC,87.93,100,87,Friday
+2025-09-27,Mumbai - BKC,35.21,100,35,Saturday
+2025-09-28,Mumbai - BKC,32.96,100,32,Sunday
+2025-09-29,Mumbai - BKC,76.75,100,76,Monday
+2025-09-30,Mumbai - BKC,86.16,100,86,Tuesday
+2025-10-01,Mumbai - BKC,72.98,100,72,Wednesday
+2025-10-02,Mumbai - BKC,81.11,100,81,Thursday
+2025-10-03,Mumbai - BKC,81.64,100,81,Friday
+2025-10-04,Mumbai - BKC,39.92,100,39,Saturday
+2025-10-05,Mumbai - BKC,38.73,100,38,Sunday
+2025-10-06,Mumbai - BKC,77.05,100,77,Monday
+2025-10-07,Mumbai - BKC,83.04,100,83,Tuesday
+2025-10-08,Mumbai - BKC,75.04,100,75,Wednesday
+2025-10-09,Mumbai - BKC,93.45,100,93,Thursday
+2025-10-10,Mumbai - BKC,92.45,100,92,Friday
+2025-10-11,Mumbai - BKC,29.9,100,29,Saturday
+2025-10-12,Mumbai - BKC,35.36,100,35,Sunday
+2025-10-13,Mumbai - BKC,86.08,100,86,Monday
+2025-10-14,Mumbai - BKC,74.73,100,74,Tuesday
+2025-10-15,Mumbai - BKC,90.03,100,90,Wednesday
+2025-10-16,Mumbai - BKC,84.51,100,84,Thursday
+2025-10-17,Mumbai - BKC,90.54,100,90,Friday
+2025-10-18,Mumbai - BKC,33.97,100,33,Saturday
+2025-10-19,Mumbai - BKC,25.61,100,25,Sunday
+2025-10-20,Mumbai - BKC,79.35,100,79,Monday
+2025-10-21,Mumbai - BKC,71.79,100,71,Tuesday
+2025-10-22,Mumbai - BKC,94.58,100,94,Wednesday
+2025-10-23,Mumbai - BKC,93.38,100,93,Thursday
+2025-10-24,Mumbai - BKC,92.26,100,92,Friday
+2025-10-25,Mumbai - BKC,30.82,100,30,Saturday
+2025-10-26,Mumbai - BKC,26.91,100,26,Sunday
+2025-10-27,Mumbai - BKC,93.58,100,93,Monday
+2025-10-28,Mumbai - BKC,95.36,100,95,Tuesday
+2025-10-29,Mumbai - BKC,73.89,100,73,Wednesday
+2025-10-30,Mumbai - BKC,83.95,100,83,Thursday
+2025-10-31,Mumbai - BKC,73.59,100,73,Friday
+2025-11-01,Mumbai - BKC,38.4,100,38,Saturday
+2025-11-02,Mumbai - BKC,38.54,100,38,Sunday
+2025-11-03,Mumbai - BKC,75.23,100,75,Monday
+2025-11-04,Mumbai - BKC,83.96,100,83,Tuesday
+2025-11-05,Mumbai - BKC,85.88,100,85,Wednesday
+2025-11-06,Mumbai - BKC,78.82,100,78,Thursday
+2025-11-07,Mumbai - BKC,94.06,100,94,Friday
+2025-11-08,Mumbai - BKC,33.43,100,33,Saturday
+2025-11-09,Mumbai - BKC,30.13,100,30,Sunday
+2025-11-10,Mumbai - BKC,85.89,100,85,Monday
+2025-11-11,Mumbai - BKC,90.72,100,90,Tuesday
+2025-11-12,Mumbai - BKC,77.55,100,77,Wednesday
+2025-11-13,Mumbai - BKC,80.37,100,80,Thursday
+2025-11-14,Mumbai - BKC,97.51,100,97,Friday
+2025-11-15,Mumbai - BKC,37.42,100,37,Saturday
+2025-11-16,Mumbai - BKC,34.11,100,34,Sunday
+2025-11-17,Mumbai - BKC,85.74,100,85,Monday
+2025-11-18,Mumbai - BKC,75.88,100,75,Tuesday
+2025-11-19,Mumbai - BKC,78.53,100,78,Wednesday
+2025-11-20,Mumbai - BKC,81.42,100,81,Thursday
+2025-11-21,Mumbai - BKC,87.73,100,87,Friday
+2025-11-22,Mumbai - BKC,31.14,100,31,Saturday
+2025-11-23,Mumbai - BKC,31.04,100,31,Sunday
+2025-11-24,Mumbai - BKC,74.96,100,74,Monday
+2025-11-25,Mumbai - BKC,89.02,100,89,Tuesday
+2025-11-26,Mumbai - BKC,79.02,100,79,Wednesday
+2025-11-27,Mumbai - BKC,95.99,100,95,Thursday
+2025-11-28,Mumbai - BKC,94.9,100,94,Friday
+2025-11-29,Mumbai - BKC,29.0,100,29,Saturday
+2025-11-30,Mumbai - BKC,31.71,100,31,Sunday
+2025-12-01,Mumbai - BKC,90.3,100,90,Monday
+2025-12-02,Mumbai - BKC,78.99,100,78,Tuesday
+2025-12-03,Mumbai - BKC,77.0,100,76,Wednesday
+2025-12-04,Mumbai - BKC,97.13,100,97,Thursday
+2025-12-05,Mumbai - BKC,88.08,100,88,Friday
+2025-12-06,Mumbai - BKC,35.78,100,35,Saturday
+2025-12-07,Mumbai - BKC,40.79,100,40,Sunday
+2025-12-08,Mumbai - BKC,94.15,100,94,Monday
+2025-12-09,Mumbai - BKC,78.78,100,78,Tuesday
+2025-12-10,Mumbai - BKC,76.5,100,76,Wednesday
+2025-12-11,Mumbai - BKC,84.91,100,84,Thursday
+2025-12-12,Mumbai - BKC,84.78,100,84,Friday
+2025-12-13,Mumbai - BKC,36.07,100,36,Saturday
+2025-12-14,Mumbai - BKC,40.29,100,40,Sunday
+2025-12-15,Mumbai - BKC,91.19,100,91,Monday
+2025-09-17,Delhi - Connaught Place,77.22,100,77,Wednesday
+2025-09-18,Delhi - Connaught Place,84.88,100,84,Thursday
+2025-09-19,Delhi - Connaught Place,83.36,100,83,Friday
+2025-09-20,Delhi - Connaught Place,40.2,100,40,Saturday
+2025-09-21,Delhi - Connaught Place,29.87,100,29,Sunday
+2025-09-22,Delhi - Connaught Place,79.8,100,79,Monday
+2025-09-23,Delhi - Connaught Place,86.31,100,86,Tuesday
+2025-09-24,Delhi - Connaught Place,85.7,100,85,Wednesday
+2025-09-25,Delhi - Connaught Place,82.17,100,82,Thursday
+2025-09-26,Delhi - Connaught Place,81.51,100,81,Friday
+2025-09-27,Delhi - Connaught Place,41.64,100,41,Saturday
+2025-09-28,Delhi - Connaught Place,33.55,100,33,Sunday
+2025-09-29,Delhi - Connaught Place,96.96,100,96,Monday
+2025-09-30,Delhi - Connaught Place,89.24,100,89,Tuesday
+2025-10-01,Delhi - Connaught Place,76.8,100,76,Wednesday
+2025-10-02,Delhi - Connaught Place,100.0,100,100,Thursday
+2025-10-03,Delhi - Connaught Place,96.55,100,96,Friday
+2025-10-04,Delhi - Connaught Place,42.8,100,42,Saturday
+2025-10-05,Delhi - Connaught Place,42.13,100,42,Sunday
+2025-10-06,Delhi - Connaught Place,97.04,100,97,Monday
+2025-10-07,Delhi - Connaught Place,80.03,100,80,Tuesday
+2025-10-08,Delhi - Connaught Place,88.07,100,88,Wednesday
+2025-10-09,Delhi - Connaught Place,81.33,100,81,Thursday
+2025-10-10,Delhi - Connaught Place,86.07,100,86,Friday
+2025-10-11,Delhi - Connaught Place,27.76,100,27,Saturday
+2025-10-12,Delhi - Connaught Place,33.24,100,33,Sunday
+2025-10-13,Delhi - Connaught Place,100.0,100,100,Monday
+2025-10-14,Delhi - Connaught Place,82.89,100,82,Tuesday
+2025-10-15,Delhi - Connaught Place,95.92,100,95,Wednesday
+2025-10-16,Delhi - Connaught Place,87.75,100,87,Thursday
+2025-10-17,Delhi - Connaught Place,87.0,100,87,Friday
+2025-10-18,Delhi - Connaught Place,43.38,100,43,Saturday
+2025-10-19,Delhi - Connaught Place,44.08,100,44,Sunday
+2025-10-20,Delhi - Connaught Place,90.49,100,90,Monday
+2025-10-21,Delhi - Connaught Place,94.61,100,94,Tuesday
+2025-10-22,Delhi - Connaught Place,80.58,100,80,Wednesday
+2025-10-23,Delhi - Connaught Place,84.18,100,84,Thursday
+2025-10-24,Delhi - Connaught Place,100.0,100,100,Friday
+2025-10-25,Delhi - Connaught Place,37.36,100,37,Saturday
+2025-10-26,Delhi - Connaught Place,36.79,100,36,Sunday
+2025-10-27,Delhi - Connaught Place,95.68,100,95,Monday
+2025-10-28,Delhi - Connaught Place,78.47,100,78,Tuesday
+2025-10-29,Delhi - Connaught Place,91.7,100,91,Wednesday
+2025-10-30,Delhi - Connaught Place,89.72,100,89,Thursday
+2025-10-31,Delhi - Connaught Place,98.52,100,98,Friday
+2025-11-01,Delhi - Connaught Place,30.6,100,30,Saturday
+2025-11-02,Delhi - Connaught Place,44.27,100,44,Sunday
+2025-11-03,Delhi - Connaught Place,79.38,100,79,Monday
+2025-11-04,Delhi - Connaught Place,82.07,100,82,Tuesday
+2025-11-05,Delhi - Connaught Place,92.36,100,92,Wednesday
+2025-11-06,Delhi - Connaught Place,94.42,100,94,Thursday
+2025-11-07,Delhi - Connaught Place,83.48,100,83,Friday
+2025-11-08,Delhi - Connaught Place,30.35,100,30,Saturday
+2025-11-09,Delhi - Connaught Place,43.47,100,43,Sunday
+2025-11-10,Delhi - Connaught Place,83.92,100,83,Monday
+2025-11-11,Delhi - Connaught Place,92.68,100,92,Tuesday
+2025-11-12,Delhi - Connaught Place,93.36,100,93,Wednesday
+2025-11-13,Delhi - Connaught Place,88.41,100,88,Thursday
+2025-11-14,Delhi - Connaught Place,92.58,100,92,Friday
+2025-11-15,Delhi - Connaught Place,37.57,100,37,Saturday
+2025-11-16,Delhi - Connaught Place,44.61,100,44,Sunday
+2025-11-17,Delhi - Connaught Place,83.26,100,83,Monday
+2025-11-18,Delhi - Connaught Place,96.11,100,96,Tuesday
+2025-11-19,Delhi - Connaught Place,84.23,100,84,Wednesday
+2025-11-20,Delhi - Connaught Place,88.21,100,88,Thursday
+2025-11-21,Delhi - Connaught Place,95.17,100,95,Friday
+2025-11-22,Delhi - Connaught Place,34.18,100,34,Saturday
+2025-11-23,Delhi - Connaught Place,34.51,100,34,Sunday
+2025-11-24,Delhi - Connaught Place,97.34,100,97,Monday
+2025-11-25,Delhi - Connaught Place,80.41,100,80,Tuesday
+2025-11-26,Delhi - Connaught Place,90.11,100,90,Wednesday
+2025-11-27,Delhi - Connaught Place,100.0,100,100,Thursday
+2025-11-28,Delhi - Connaught Place,100.0,100,100,Friday
+2025-11-29,Delhi - Connaught Place,30.73,100,30,Saturday
+2025-11-30,Delhi - Connaught Place,33.15,100,33,Sunday
+2025-12-01,Delhi - Connaught Place,85.56,100,85,Monday
+2025-12-02,Delhi - Connaught Place,100.0,100,100,Tuesday
+2025-12-03,Delhi - Connaught Place,100.0,100,100,Wednesday
+2025-12-04,Delhi - Connaught Place,100.0,100,100,Thursday
+2025-12-05,Delhi - Connaught Place,88.39,100,88,Friday
+2025-12-06,Delhi - Connaught Place,32.55,100,32,Saturday
+2025-12-07,Delhi - Connaught Place,44.06,100,44,Sunday
+2025-12-08,Delhi - Connaught Place,96.91,100,96,Monday
+2025-12-09,Delhi - Connaught Place,94.67,100,94,Tuesday
+2025-12-10,Delhi - Connaught Place,100.0,100,100,Wednesday
+2025-12-11,Delhi - Connaught Place,95.83,100,95,Thursday
+2025-12-12,Delhi - Connaught Place,79.74,100,79,Friday
+2025-12-13,Delhi - Connaught Place,44.11,100,44,Saturday
+2025-12-14,Delhi - Connaught Place,35.39,100,35,Sunday
+2025-12-15,Delhi - Connaught Place,96.29,100,96,Monday
+2025-09-17,Pune - Koregaon Park,77.44,100,77,Wednesday
+2025-09-18,Pune - Koregaon Park,77.03,100,77,Thursday
+2025-09-19,Pune - Koregaon Park,76.87,100,76,Friday
+2025-09-20,Pune - Koregaon Park,34.7,100,34,Saturday
+2025-09-21,Pune - Koregaon Park,30.03,100,30,Sunday
+2025-09-22,Pune - Koregaon Park,89.48,100,89,Monday
+2025-09-23,Pune - Koregaon Park,92.36,100,92,Tuesday
+2025-09-24,Pune - Koregaon Park,79.56,100,79,Wednesday
+2025-09-25,Pune - Koregaon Park,90.38,100,90,Thursday
+2025-09-26,Pune - Koregaon Park,81.18,100,81,Friday
+2025-09-27,Pune - Koregaon Park,34.0,100,33,Saturday
+2025-09-28,Pune - Koregaon Park,41.06,100,41,Sunday
+2025-09-29,Pune - Koregaon Park,95.9,100,95,Monday
+2025-09-30,Pune - Koregaon Park,77.11,100,77,Tuesday
+2025-10-01,Pune - Koregaon Park,85.45,100,85,Wednesday
+2025-10-02,Pune - Koregaon Park,81.83,100,81,Thursday
+2025-10-03,Pune - Koregaon Park,75.06,100,75,Friday
+2025-10-04,Pune - Koregaon Park,39.14,100,39,Saturday
+2025-10-05,Pune - Koregaon Park,36.94,100,36,Sunday
+2025-10-06,Pune - Koregaon Park,81.69,100,81,Monday
+2025-10-07,Pune - Koregaon Park,93.73,100,93,Tuesday
+2025-10-08,Pune - Koregaon Park,89.04,100,89,Wednesday
+2025-10-09,Pune - Koregaon Park,86.0,100,85,Thursday
+2025-10-10,Pune - Koregaon Park,75.6,100,75,Friday
+2025-10-11,Pune - Koregaon Park,27.82,100,27,Saturday
+2025-10-12,Pune - Koregaon Park,41.47,100,41,Sunday
+2025-10-13,Pune - Koregaon Park,98.13,100,98,Monday
+2025-10-14,Pune - Koregaon Park,89.22,100,89,Tuesday
+2025-10-15,Pune - Koregaon Park,96.5,100,96,Wednesday
+2025-10-16,Pune - Koregaon Park,90.26,100,90,Thursday
+2025-10-17,Pune - Koregaon Park,79.45,100,79,Friday
+2025-10-18,Pune - Koregaon Park,29.09,100,29,Saturday
+2025-10-19,Pune - Koregaon Park,32.19,100,32,Sunday
+2025-10-20,Pune - Koregaon Park,98.39,100,98,Monday
+2025-10-21,Pune - Koregaon Park,95.88,100,95,Tuesday
+2025-10-22,Pune - Koregaon Park,97.55,100,97,Wednesday
+2025-10-23,Pune - Koregaon Park,98.56,100,98,Thursday
+2025-10-24,Pune - Koregaon Park,81.39,100,81,Friday
+2025-10-25,Pune - Koregaon Park,31.53,100,31,Saturday
+2025-10-26,Pune - Koregaon Park,29.12,100,29,Sunday
+2025-10-27,Pune - Koregaon Park,95.81,100,95,Monday
+2025-10-28,Pune - Koregaon Park,98.47,100,98,Tuesday
+2025-10-29,Pune - Koregaon Park,86.58,100,86,Wednesday
+2025-10-30,Pune - Koregaon Park,91.99,100,91,Thursday
+2025-10-31,Pune - Koregaon Park,80.39,100,80,Friday
+2025-11-01,Pune - Koregaon Park,43.36,100,43,Saturday
+2025-11-02,Pune - Koregaon Park,42.32,100,42,Sunday
+2025-11-03,Pune - Koregaon Park,100.0,100,100,Monday
+2025-11-04,Pune - Koregaon Park,97.02,100,97,Tuesday
+2025-11-05,Pune - Koregaon Park,98.84,100,98,Wednesday
+2025-11-06,Pune - Koregaon Park,77.48,100,77,Thursday
+2025-11-07,Pune - Koregaon Park,95.33,100,95,Friday
+2025-11-08,Pune - Koregaon Park,33.7,100,33,Saturday
+2025-11-09,Pune - Koregaon Park,43.82,100,43,Sunday
+2025-11-10,Pune - Koregaon Park,97.14,100,97,Monday
+2025-11-11,Pune - Koregaon Park,98.74,100,98,Tuesday
+2025-11-12,Pune - Koregaon Park,97.46,100,97,Wednesday
+2025-11-13,Pune - Koregaon Park,83.92,100,83,Thursday
+2025-11-14,Pune - Koregaon Park,96.99,100,96,Friday
+2025-11-15,Pune - Koregaon Park,30.32,100,30,Saturday
+2025-11-16,Pune - Koregaon Park,43.23,100,43,Sunday
+2025-11-17,Pune - Koregaon Park,98.94,100,98,Monday
+2025-11-18,Pune - Koregaon Park,83.09,100,83,Tuesday
+2025-11-19,Pune - Koregaon Park,98.0,100,97,Wednesday
+2025-11-20,Pune - Koregaon Park,89.15,100,89,Thursday
+2025-11-21,Pune - Koregaon Park,85.32,100,85,Friday
+2025-11-22,Pune - Koregaon Park,42.27,100,42,Saturday
+2025-11-23,Pune - Koregaon Park,32.77,100,32,Sunday
+2025-11-24,Pune - Koregaon Park,78.45,100,78,Monday
+2025-11-25,Pune - Koregaon Park,82.75,100,82,Tuesday
+2025-11-26,Pune - Koregaon Park,86.18,100,86,Wednesday
+2025-11-27,Pune - Koregaon Park,99.64,100,99,Thursday
+2025-11-28,Pune - Koregaon Park,100.0,100,100,Friday
+2025-11-29,Pune - Koregaon Park,33.97,100,33,Saturday
+2025-11-30,Pune - Koregaon Park,40.12,100,40,Sunday
+2025-12-01,Pune - Koregaon Park,88.24,100,88,Monday
+2025-12-02,Pune - Koregaon Park,100.0,100,100,Tuesday
+2025-12-03,Pune - Koregaon Park,91.77,100,91,Wednesday
+2025-12-04,Pune - Koregaon Park,100.0,100,100,Thursday
+2025-12-05,Pune - Koregaon Park,81.36,100,81,Friday
+2025-12-06,Pune - Koregaon Park,45.99,100,45,Saturday
+2025-12-07,Pune - Koregaon Park,32.73,100,32,Sunday
+2025-12-08,Pune - Koregaon Park,100.0,100,100,Monday
+2025-12-09,Pune - Koregaon Park,85.33,100,85,Tuesday
+2025-12-10,Pune - Koregaon Park,81.46,100,81,Wednesday
+2025-12-11,Pune - Koregaon Park,89.67,100,89,Thursday
+2025-12-12,Pune - Koregaon Park,97.08,100,97,Friday
+2025-12-13,Pune - Koregaon Park,35.33,100,35,Saturday
+2025-12-14,Pune - Koregaon Park,40.31,100,40,Sunday
+2025-12-15,Pune - Koregaon Park,91.81,100,91,Monday
+2025-09-17,Hyderabad - Hitech City,80.19,100,80,Wednesday
+2025-09-18,Hyderabad - Hitech City,72.2,100,72,Thursday
+2025-09-19,Hyderabad - Hitech City,83.61,100,83,Friday
+2025-09-20,Hyderabad - Hitech City,22.93,100,22,Saturday
+2025-09-21,Hyderabad - Hitech City,36.98,100,36,Sunday
+2025-09-22,Hyderabad - Hitech City,79.52,100,79,Monday
+2025-09-23,Hyderabad - Hitech City,84.1,100,84,Tuesday
+2025-09-24,Hyderabad - Hitech City,84.72,100,84,Wednesday
+2025-09-25,Hyderabad - Hitech City,82.99,100,82,Thursday
+2025-09-26,Hyderabad - Hitech City,75.38,100,75,Friday
+2025-09-27,Hyderabad - Hitech City,24.35,100,24,Saturday
+2025-09-28,Hyderabad - Hitech City,33.41,100,33,Sunday
+2025-09-29,Hyderabad - Hitech City,74.7,100,74,Monday
+2025-09-30,Hyderabad - Hitech City,74.35,100,74,Tuesday
+2025-10-01,Hyderabad - Hitech City,87.76,100,87,Wednesday
+2025-10-02,Hyderabad - Hitech City,84.61,100,84,Thursday
+2025-10-03,Hyderabad - Hitech City,74.17,100,74,Friday
+2025-10-04,Hyderabad - Hitech City,28.37,100,28,Saturday
+2025-10-05,Hyderabad - Hitech City,29.92,100,29,Sunday
+2025-10-06,Hyderabad - Hitech City,76.89,100,76,Monday
+2025-10-07,Hyderabad - Hitech City,74.28,100,74,Tuesday
+2025-10-08,Hyderabad - Hitech City,70.13,100,70,Wednesday
+2025-10-09,Hyderabad - Hitech City,77.51,100,77,Thursday
+2025-10-10,Hyderabad - Hitech City,90.56,100,90,Friday
+2025-10-11,Hyderabad - Hitech City,34.33,100,34,Saturday
+2025-10-12,Hyderabad - Hitech City,37.8,100,37,Sunday
+2025-10-13,Hyderabad - Hitech City,82.61,100,82,Monday
+2025-10-14,Hyderabad - Hitech City,74.8,100,74,Tuesday
+2025-10-15,Hyderabad - Hitech City,81.03,100,81,Wednesday
+2025-10-16,Hyderabad - Hitech City,67.4,100,67,Thursday
+2025-10-17,Hyderabad - Hitech City,74.62,100,74,Friday
+2025-10-18,Hyderabad - Hitech City,30.97,100,30,Saturday
+2025-10-19,Hyderabad - Hitech City,33.3,100,33,Sunday
+2025-10-20,Hyderabad - Hitech City,83.98,100,83,Monday
+2025-10-21,Hyderabad - Hitech City,79.29,100,79,Tuesday
+2025-10-22,Hyderabad - Hitech City,78.78,100,78,Wednesday
+2025-10-23,Hyderabad - Hitech City,73.12,100,73,Thursday
+2025-10-24,Hyderabad - Hitech City,79.66,100,79,Friday
+2025-10-25,Hyderabad - Hitech City,38.5,100,38,Saturday
+2025-10-26,Hyderabad - Hitech City,36.96,100,36,Sunday
+2025-10-27,Hyderabad - Hitech City,72.24,100,72,Monday
+2025-10-28,Hyderabad - Hitech City,70.18,100,70,Tuesday
+2025-10-29,Hyderabad - Hitech City,81.0,100,80,Wednesday
+2025-10-30,Hyderabad - Hitech City,83.99,100,83,Thursday
+2025-10-31,Hyderabad - Hitech City,76.6,100,76,Friday
+2025-11-01,Hyderabad - Hitech City,37.64,100,37,Saturday
+2025-11-02,Hyderabad - Hitech City,36.67,100,36,Sunday
+2025-11-03,Hyderabad - Hitech City,85.21,100,85,Monday
+2025-11-04,Hyderabad - Hitech City,74.06,100,74,Tuesday
+2025-11-05,Hyderabad - Hitech City,73.48,100,73,Wednesday
+2025-11-06,Hyderabad - Hitech City,69.17,100,69,Thursday
+2025-11-07,Hyderabad - Hitech City,74.73,100,74,Friday
+2025-11-08,Hyderabad - Hitech City,32.82,100,32,Saturday
+2025-11-09,Hyderabad - Hitech City,38.56,100,38,Sunday
+2025-11-10,Hyderabad - Hitech City,70.6,100,70,Monday
+2025-11-11,Hyderabad - Hitech City,79.19,100,79,Tuesday
+2025-11-12,Hyderabad - Hitech City,84.63,100,84,Wednesday
+2025-11-13,Hyderabad - Hitech City,73.81,100,73,Thursday
+2025-11-14,Hyderabad - Hitech City,86.41,100,86,Friday
+2025-11-15,Hyderabad - Hitech City,33.5,100,33,Saturday
+2025-11-16,Hyderabad - Hitech City,29.76,100,29,Sunday
+2025-11-17,Hyderabad - Hitech City,85.57,100,85,Monday
+2025-11-18,Hyderabad - Hitech City,69.36,100,69,Tuesday
+2025-11-19,Hyderabad - Hitech City,88.05,100,88,Wednesday
+2025-11-20,Hyderabad - Hitech City,88.58,100,88,Thursday
+2025-11-21,Hyderabad - Hitech City,72.05,100,72,Friday
+2025-11-22,Hyderabad - Hitech City,32.84,100,32,Saturday
+2025-11-23,Hyderabad - Hitech City,29.12,100,29,Sunday
+2025-11-24,Hyderabad - Hitech City,93.5,100,93,Monday
+2025-11-25,Hyderabad - Hitech City,82.56,100,82,Tuesday
+2025-11-26,Hyderabad - Hitech City,70.92,100,70,Wednesday
+2025-11-27,Hyderabad - Hitech City,75.95,100,75,Thursday
+2025-11-28,Hyderabad - Hitech City,90.99,100,90,Friday
+2025-11-29,Hyderabad - Hitech City,33.71,100,33,Saturday
+2025-11-30,Hyderabad - Hitech City,38.99,100,38,Sunday
+2025-12-01,Hyderabad - Hitech City,86.63,100,86,Monday
+2025-12-02,Hyderabad - Hitech City,94.7,100,94,Tuesday
+2025-12-03,Hyderabad - Hitech City,84.94,100,84,Wednesday
+2025-12-04,Hyderabad - Hitech City,93.86,100,93,Thursday
+2025-12-05,Hyderabad - Hitech City,92.45,100,92,Friday
+2025-12-06,Hyderabad - Hitech City,36.46,100,36,Saturday
+2025-12-07,Hyderabad - Hitech City,38.13,100,38,Sunday
+2025-12-08,Hyderabad - Hitech City,82.95,100,82,Monday
+2025-12-09,Hyderabad - Hitech City,91.15,100,91,Tuesday
+2025-12-10,Hyderabad - Hitech City,84.14,100,84,Wednesday
+2025-12-11,Hyderabad - Hitech City,92.93,100,92,Thursday
+2025-12-12,Hyderabad - Hitech City,89.15,100,89,Friday
+2025-12-13,Hyderabad - Hitech City,34.76,100,34,Saturday
+2025-12-14,Hyderabad - Hitech City,31.55,100,31,Sunday
+2025-12-15,Hyderabad - Hitech City,76.9,100,76,Monday

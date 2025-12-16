@@ -1,0 +1,501 @@
+member_id,member_type,location,space_type,join_date,tenure_days,is_active,monthly_value
+MEM0001,Freelancer,Hyderabad - Hitech City,Private Office,2025-08-25,113,True,16811
+MEM0002,Freelancer,Bangalore - MG Road,Hot Desk,2025-01-12,338,True,12222
+MEM0003,Enterprise,Mumbai - BKC,Hot Desk,2025-11-28,18,True,10352
+MEM0004,Freelancer,Mumbai - BKC,Dedicated Desk,2025-05-17,213,True,19359
+MEM0005,Enterprise,Mumbai - BKC,Private Office,2025-06-11,188,True,12894
+MEM0006,Enterprise,Bangalore - MG Road,Meeting Room,2025-07-17,152,True,7306
+MEM0007,SME,Hyderabad - Hitech City,Private Office,2025-08-22,116,False,11464
+MEM0008,Enterprise,Hyderabad - Hitech City,Hot Desk,2025-12-08,8,True,16023
+MEM0009,Enterprise,Hyderabad - Hitech City,Meeting Room,2025-01-05,345,True,11086
+MEM0010,Freelancer,Pune - Koregaon Park,Hot Desk,2025-10-21,56,True,14198
+MEM0011,Freelancer,Bangalore - MG Road,Meeting Room,2025-07-01,168,True,9951
+MEM0012,SME,Bangalore - MG Road,Dedicated Desk,2025-01-17,333,False,5609
+MEM0013,SME,Bangalore - MG Road,Hot Desk,2025-07-13,156,False,13807
+MEM0014,SME,Pune - Koregaon Park,Private Office,2025-10-07,70,True,17175
+MEM0015,SME,Hyderabad - Hitech City,Dedicated Desk,2024-12-24,357,True,15730
+MEM0016,SME,Hyderabad - Hitech City,Meeting Room,2025-10-26,51,True,9583
+MEM0017,Enterprise,Mumbai - BKC,Meeting Room,2025-11-29,17,True,8868
+MEM0018,Startup,Delhi - Connaught Place,Private Office,2025-06-13,186,False,9520
+MEM0019,Startup,Pune - Koregaon Park,Hot Desk,2025-09-09,98,True,15513
+MEM0020,Startup,Bangalore - MG Road,Private Office,2025-01-22,328,True,7063
+MEM0021,Freelancer,Bangalore - MG Road,Dedicated Desk,2025-03-01,290,True,18321
+MEM0022,Enterprise,Mumbai - BKC,Hot Desk,2025-08-18,120,False,7370
+MEM0023,Enterprise,Mumbai - BKC,Hot Desk,2025-10-10,67,True,5422
+MEM0024,Startup,Delhi - Connaught Place,Dedicated Desk,2025-10-09,68,True,5258
+MEM0025,Enterprise,Bangalore - MG Road,Dedicated Desk,2025-09-17,90,True,13619
+MEM0026,Startup,Pune - Koregaon Park,Meeting Room,2025-10-18,59,True,13408
+MEM0027,Startup,Pune - Koregaon Park,Dedicated Desk,2025-02-15,304,True,5710
+MEM0028,Enterprise,Pune - Koregaon Park,Hot Desk,2025-01-12,338,False,12847
+MEM0029,SME,Bangalore - MG Road,Meeting Room,2025-05-24,206,True,12267
+MEM0030,Startup,Delhi - Connaught Place,Dedicated Desk,2025-11-08,38,False,9505
+MEM0031,Enterprise,Pune - Koregaon Park,Private Office,2025-01-30,320,True,14919
+MEM0032,Startup,Bangalore - MG Road,Dedicated Desk,2025-05-09,221,True,19550
+MEM0033,SME,Delhi - Connaught Place,Meeting Room,2025-08-21,117,True,16953
+MEM0034,Enterprise,Pune - Koregaon Park,Private Office,2025-10-28,49,True,11132
+MEM0035,SME,Bangalore - MG Road,Hot Desk,2025-09-28,79,True,6527
+MEM0036,Startup,Delhi - Connaught Place,Dedicated Desk,2025-05-08,222,True,14608
+MEM0037,Enterprise,Bangalore - MG Road,Meeting Room,2025-03-03,288,True,15900
+MEM0038,Startup,Delhi - Connaught Place,Private Office,2025-05-13,217,True,14468
+MEM0039,Freelancer,Mumbai - BKC,Meeting Room,2025-03-31,260,False,6773
+MEM0040,Enterprise,Bangalore - MG Road,Private Office,2025-06-19,180,True,18225
+MEM0041,Startup,Hyderabad - Hitech City,Private Office,2025-05-10,220,False,9477
+MEM0042,Enterprise,Delhi - Connaught Place,Private Office,2024-12-21,360,False,19251
+MEM0043,SME,Bangalore - MG Road,Dedicated Desk,2025-10-03,74,True,5502
+MEM0044,Freelancer,Pune - Koregaon Park,Meeting Room,2025-10-30,47,True,7578
+MEM0045,Enterprise,Delhi - Connaught Place,Hot Desk,2025-06-09,190,True,7549
+MEM0046,Startup,Bangalore - MG Road,Private Office,2025-09-26,81,True,11947
+MEM0047,SME,Pune - Koregaon Park,Private Office,2025-04-11,249,False,13394
+MEM0048,Enterprise,Pune - Koregaon Park,Hot Desk,2025-10-18,59,False,16116
+MEM0049,SME,Hyderabad - Hitech City,Private Office,2025-02-15,304,False,11475
+MEM0050,Startup,Bangalore - MG Road,Dedicated Desk,2025-02-12,307,True,8460
+MEM0051,Enterprise,Delhi - Connaught Place,Private Office,2025-10-06,71,False,13149
+MEM0052,Freelancer,Mumbai - BKC,Meeting Room,2025-05-09,221,True,8770
+MEM0053,Enterprise,Bangalore - MG Road,Meeting Room,2025-04-03,257,True,5693
+MEM0054,Startup,Pune - Koregaon Park,Hot Desk,2025-05-06,224,True,14433
+MEM0055,SME,Pune - Koregaon Park,Private Office,2025-05-10,220,False,5341
+MEM0056,Freelancer,Hyderabad - Hitech City,Meeting Room,2025-07-02,167,True,10928
+MEM0057,SME,Bangalore - MG Road,Dedicated Desk,2025-10-31,46,True,11560
+MEM0058,Startup,Pune - Koregaon Park,Private Office,2025-03-22,269,True,8630
+MEM0059,Freelancer,Bangalore - MG Road,Hot Desk,2025-06-28,171,True,8176
+MEM0060,Enterprise,Mumbai - BKC,Dedicated Desk,2025-06-20,179,False,9193
+MEM0061,Freelancer,Hyderabad - Hitech City,Dedicated Desk,2025-09-05,102,True,15739
+MEM0062,Freelancer,Pune - Koregaon Park,Meeting Room,2025-11-07,39,True,17449
+MEM0063,SME,Hyderabad - Hitech City,Private Office,2025-02-22,297,True,15276
+MEM0064,Freelancer,Pune - Koregaon Park,Hot Desk,2025-07-07,162,True,15344
+MEM0065,Enterprise,Hyderabad - Hitech City,Hot Desk,2025-07-13,156,True,6215
+MEM0066,SME,Pune - Koregaon Park,Hot Desk,2025-07-10,159,False,18626
+MEM0067,Startup,Bangalore - MG Road,Meeting Room,2025-07-22,147,True,14081
+MEM0068,SME,Hyderabad - Hitech City,Dedicated Desk,2025-11-24,22,False,12792
+MEM0069,Freelancer,Bangalore - MG Road,Meeting Room,2025-04-03,257,False,19731
+MEM0070,Startup,Hyderabad - Hitech City,Dedicated Desk,2025-06-23,176,False,16593
+MEM0071,SME,Hyderabad - Hitech City,Dedicated Desk,2025-05-05,225,True,9634
+MEM0072,SME,Delhi - Connaught Place,Hot Desk,2025-05-31,199,True,15605
+MEM0073,Startup,Delhi - Connaught Place,Hot Desk,2025-06-27,172,True,11333
+MEM0074,Enterprise,Hyderabad - Hitech City,Dedicated Desk,2025-07-23,146,True,14547
+MEM0075,Freelancer,Delhi - Connaught Place,Private Office,2025-01-10,340,True,16443
+MEM0076,SME,Mumbai - BKC,Hot Desk,2025-01-10,340,True,11171
+MEM0077,Enterprise,Mumbai - BKC,Hot Desk,2025-01-20,330,True,11937
+MEM0078,Enterprise,Bangalore - MG Road,Private Office,2025-03-30,261,True,8509
+MEM0079,SME,Mumbai - BKC,Dedicated Desk,2025-06-24,175,True,7538
+MEM0080,Enterprise,Bangalore - MG Road,Hot Desk,2025-11-06,40,True,19358
+MEM0081,Freelancer,Hyderabad - Hitech City,Meeting Room,2025-02-02,317,False,7962
+MEM0082,Freelancer,Pune - Koregaon Park,Hot Desk,2024-12-26,355,True,16081
+MEM0083,SME,Hyderabad - Hitech City,Private Office,2025-08-16,122,True,17841
+MEM0084,Freelancer,Hyderabad - Hitech City,Dedicated Desk,2025-04-30,230,True,18248
+MEM0085,Freelancer,Delhi - Connaught Place,Meeting Room,2025-04-19,241,True,9616
+MEM0086,SME,Mumbai - BKC,Dedicated Desk,2025-06-03,196,True,7267
+MEM0087,Startup,Pune - Koregaon Park,Private Office,2025-08-09,129,True,6680
+MEM0088,Startup,Delhi - Connaught Place,Hot Desk,2024-12-16,365,True,9469
+MEM0089,Freelancer,Pune - Koregaon Park,Hot Desk,2025-04-29,231,True,8637
+MEM0090,Enterprise,Bangalore - MG Road,Meeting Room,2025-04-29,231,False,13224
+MEM0091,Freelancer,Pune - Koregaon Park,Hot Desk,2025-06-07,192,True,5461
+MEM0092,Startup,Delhi - Connaught Place,Dedicated Desk,2025-07-05,164,False,9700
+MEM0093,Freelancer,Pune - Koregaon Park,Meeting Room,2025-04-18,242,True,19841
+MEM0094,Startup,Delhi - Connaught Place,Dedicated Desk,2025-11-05,41,True,13991
+MEM0095,SME,Bangalore - MG Road,Private Office,2025-02-07,312,True,6996
+MEM0096,Freelancer,Pune - Koregaon Park,Meeting Room,2025-11-21,25,False,18708
+MEM0097,Startup,Hyderabad - Hitech City,Dedicated Desk,2025-04-04,256,True,9772
+MEM0098,Startup,Hyderabad - Hitech City,Private Office,2025-05-10,220,False,11825
+MEM0099,Startup,Hyderabad - Hitech City,Private Office,2025-09-11,96,False,13618
+MEM0100,Startup,Pune - Koregaon Park,Meeting Room,2025-03-12,279,False,11338
+MEM0101,Enterprise,Bangalore - MG Road,Private Office,2025-06-07,192,True,10649
+MEM0102,Startup,Hyderabad - Hitech City,Private Office,2025-08-14,124,False,10772
+MEM0103,Enterprise,Mumbai - BKC,Meeting Room,2025-03-11,280,True,12840
+MEM0104,Freelancer,Mumbai - BKC,Hot Desk,2025-01-26,324,True,12498
+MEM0105,Enterprise,Mumbai - BKC,Hot Desk,2025-11-27,19,True,19512
+MEM0106,Enterprise,Delhi - Connaught Place,Meeting Room,2025-11-24,22,True,13897
+MEM0107,Enterprise,Bangalore - MG Road,Dedicated Desk,2025-04-17,243,True,19125
+MEM0108,Enterprise,Delhi - Connaught Place,Hot Desk,2025-11-21,25,True,12159
+MEM0109,SME,Pune - Koregaon Park,Private Office,2025-05-25,205,True,13129
+MEM0110,SME,Delhi - Connaught Place,Private Office,2024-12-26,355,True,16912
+MEM0111,Startup,Pune - Koregaon Park,Dedicated Desk,2025-05-12,218,True,10262
+MEM0112,Startup,Delhi - Connaught Place,Private Office,2025-10-24,53,False,14873
+MEM0113,Freelancer,Pune - Koregaon Park,Private Office,2025-05-11,219,True,16908
+MEM0114,SME,Delhi - Connaught Place,Hot Desk,2025-06-18,181,False,15445
+MEM0115,Enterprise,Hyderabad - Hitech City,Dedicated Desk,2025-05-22,208,True,7339
+MEM0116,SME,Bangalore - MG Road,Dedicated Desk,2025-02-07,312,False,17755
+MEM0117,Enterprise,Delhi - Connaught Place,Meeting Room,2025-01-19,331,True,5530
+MEM0118,Freelancer,Pune - Koregaon Park,Private Office,2025-02-09,310,True,17502
+MEM0119,Freelancer,Hyderabad - Hitech City,Private Office,2025-11-06,40,True,15642
+MEM0120,Freelancer,Bangalore - MG Road,Hot Desk,2025-07-26,143,True,13176
+MEM0121,SME,Hyderabad - Hitech City,Hot Desk,2025-03-25,266,True,9264
+MEM0122,SME,Mumbai - BKC,Private Office,2024-12-20,361,True,13047
+MEM0123,Startup,Mumbai - BKC,Hot Desk,2025-09-04,103,True,19723
+MEM0124,Startup,Delhi - Connaught Place,Private Office,2025-05-02,228,True,14011
+MEM0125,Enterprise,Delhi - Connaught Place,Dedicated Desk,2025-03-13,278,True,16472
+MEM0126,Freelancer,Delhi - Connaught Place,Dedicated Desk,2025-01-23,327,False,8292
+MEM0127,Freelancer,Pune - Koregaon Park,Hot Desk,2025-10-05,72,True,14376
+MEM0128,SME,Hyderabad - Hitech City,Dedicated Desk,2025-06-10,189,True,6412
+MEM0129,Enterprise,Pune - Koregaon Park,Meeting Room,2025-11-12,34,True,17601
+MEM0130,Startup,Mumbai - BKC,Private Office,2025-05-20,210,True,12372
+MEM0131,Enterprise,Mumbai - BKC,Dedicated Desk,2025-04-21,239,True,7114
+MEM0132,Startup,Bangalore - MG Road,Dedicated Desk,2025-05-08,222,True,7653
+MEM0133,Freelancer,Delhi - Connaught Place,Private Office,2025-07-03,166,True,9105
+MEM0134,Enterprise,Mumbai - BKC,Private Office,2025-09-06,101,True,6530
+MEM0135,Freelancer,Hyderabad - Hitech City,Dedicated Desk,2025-04-02,258,False,15231
+MEM0136,Enterprise,Hyderabad - Hitech City,Hot Desk,2025-02-09,310,True,5464
+MEM0137,Startup,Hyderabad - Hitech City,Private Office,2025-11-04,42,True,17565
+MEM0138,SME,Hyderabad - Hitech City,Hot Desk,2025-02-26,293,True,15275
+MEM0139,Enterprise,Delhi - Connaught Place,Meeting Room,2025-03-11,280,False,18227
+MEM0140,SME,Delhi - Connaught Place,Meeting Room,2024-12-30,351,False,5981
+MEM0141,SME,Pune - Koregaon Park,Meeting Room,2025-09-26,81,True,10573
+MEM0142,Freelancer,Delhi - Connaught Place,Private Office,2025-02-08,311,True,19102
+MEM0143,SME,Mumbai - BKC,Private Office,2025-06-22,177,True,6739
+MEM0144,Freelancer,Pune - Koregaon Park,Hot Desk,2025-07-05,164,False,9061
+MEM0145,Startup,Bangalore - MG Road,Private Office,2025-10-04,73,True,19158
+MEM0146,SME,Mumbai - BKC,Dedicated Desk,2025-02-03,316,True,14464
+MEM0147,Freelancer,Mumbai - BKC,Meeting Room,2025-07-08,161,True,12648
+MEM0148,Enterprise,Pune - Koregaon Park,Hot Desk,2025-04-04,256,False,11442
+MEM0149,SME,Mumbai - BKC,Dedicated Desk,2025-04-01,259,True,5797
+MEM0150,Enterprise,Pune - Koregaon Park,Meeting Room,2025-11-20,26,False,5133
+MEM0151,SME,Mumbai - BKC,Private Office,2025-10-21,56,True,17515
+MEM0152,Enterprise,Bangalore - MG Road,Meeting Room,2025-05-23,207,False,14204
+MEM0153,Enterprise,Hyderabad - Hitech City,Private Office,2025-09-07,100,False,13261
+MEM0154,Enterprise,Hyderabad - Hitech City,Hot Desk,2025-04-29,231,False,6584
+MEM0155,Enterprise,Delhi - Connaught Place,Private Office,2025-05-28,202,True,8261
+MEM0156,SME,Hyderabad - Hitech City,Hot Desk,2025-02-10,309,False,7245
+MEM0157,SME,Hyderabad - Hitech City,Meeting Room,2025-06-28,171,False,19633
+MEM0158,Freelancer,Delhi - Connaught Place,Private Office,2025-03-27,264,False,15100
+MEM0159,Enterprise,Hyderabad - Hitech City,Meeting Room,2025-07-15,154,True,9911
+MEM0160,Startup,Delhi - Connaught Place,Private Office,2025-04-16,244,True,11824
+MEM0161,Enterprise,Bangalore - MG Road,Meeting Room,2025-02-20,299,True,15741
+MEM0162,Freelancer,Bangalore - MG Road,Meeting Room,2025-02-22,297,False,15305
+MEM0163,SME,Mumbai - BKC,Dedicated Desk,2025-02-01,318,False,16477
+MEM0164,Freelancer,Bangalore - MG Road,Meeting Room,2025-10-20,57,False,7481
+MEM0165,Freelancer,Pune - Koregaon Park,Meeting Room,2025-05-18,212,True,17055
+MEM0166,Freelancer,Hyderabad - Hitech City,Dedicated Desk,2025-11-14,32,True,15849
+MEM0167,SME,Delhi - Connaught Place,Dedicated Desk,2025-04-15,245,True,13734
+MEM0168,Enterprise,Delhi - Connaught Place,Meeting Room,2025-06-23,176,False,9038
+MEM0169,Enterprise,Mumbai - BKC,Private Office,2025-07-26,143,True,16549
+MEM0170,SME,Delhi - Connaught Place,Meeting Room,2025-08-31,107,True,18031
+MEM0171,Enterprise,Bangalore - MG Road,Meeting Room,2025-07-28,141,True,11464
+MEM0172,Freelancer,Delhi - Connaught Place,Hot Desk,2025-06-22,177,False,16700
+MEM0173,Enterprise,Pune - Koregaon Park,Private Office,2025-11-05,41,True,8505
+MEM0174,Enterprise,Hyderabad - Hitech City,Private Office,2025-09-03,104,False,15087
+MEM0175,Freelancer,Mumbai - BKC,Hot Desk,2025-02-18,301,True,13700
+MEM0176,Freelancer,Bangalore - MG Road,Hot Desk,2025-08-22,116,True,16753
+MEM0177,Startup,Mumbai - BKC,Hot Desk,2025-04-18,242,True,7587
+MEM0178,SME,Pune - Koregaon Park,Dedicated Desk,2025-05-21,209,True,9706
+MEM0179,Enterprise,Bangalore - MG Road,Hot Desk,2025-07-04,165,True,8804
+MEM0180,Startup,Mumbai - BKC,Meeting Room,2025-03-17,274,True,7880
+MEM0181,SME,Pune - Koregaon Park,Dedicated Desk,2025-11-27,19,True,19291
+MEM0182,Startup,Bangalore - MG Road,Private Office,2025-07-20,149,True,6758
+MEM0183,Enterprise,Pune - Koregaon Park,Meeting Room,2025-06-27,172,True,7198
+MEM0184,SME,Delhi - Connaught Place,Dedicated Desk,2025-04-01,259,True,10417
+MEM0185,SME,Delhi - Connaught Place,Dedicated Desk,2025-09-23,84,False,10523
+MEM0186,Freelancer,Mumbai - BKC,Meeting Room,2025-07-17,152,True,13442
+MEM0187,Startup,Pune - Koregaon Park,Hot Desk,2025-07-01,168,False,7303
+MEM0188,Enterprise,Mumbai - BKC,Hot Desk,2025-04-15,245,False,8858
+MEM0189,Enterprise,Delhi - Connaught Place,Private Office,2025-05-01,229,True,14386
+MEM0190,Enterprise,Delhi - Connaught Place,Dedicated Desk,2025-12-10,6,False,6936
+MEM0191,Enterprise,Mumbai - BKC,Meeting Room,2025-04-21,239,True,19665
+MEM0192,Enterprise,Bangalore - MG Road,Private Office,2024-12-20,361,True,8618
+MEM0193,Freelancer,Pune - Koregaon Park,Dedicated Desk,2025-08-25,113,True,14924
+MEM0194,SME,Hyderabad - Hitech City,Meeting Room,2025-06-07,192,True,18139
+MEM0195,Freelancer,Mumbai - BKC,Hot Desk,2025-01-09,341,True,13653
+MEM0196,Enterprise,Bangalore - MG Road,Hot Desk,2024-12-20,361,False,13972
+MEM0197,Freelancer,Hyderabad - Hitech City,Dedicated Desk,2025-04-01,259,False,18999
+MEM0198,SME,Bangalore - MG Road,Dedicated Desk,2025-03-24,267,True,13008
+MEM0199,SME,Bangalore - MG Road,Meeting Room,2025-10-30,47,False,11806
+MEM0200,Startup,Hyderabad - Hitech City,Meeting Room,2025-04-26,234,True,10049
+MEM0201,SME,Delhi - Connaught Place,Hot Desk,2025-12-04,12,True,14475
+MEM0202,Startup,Pune - Koregaon Park,Private Office,2025-11-08,38,True,13866
+MEM0203,Startup,Pune - Koregaon Park,Hot Desk,2025-11-15,31,False,7948
+MEM0204,SME,Delhi - Connaught Place,Meeting Room,2025-10-07,70,True,19856
+MEM0205,SME,Bangalore - MG Road,Dedicated Desk,2025-06-05,194,True,10697
+MEM0206,Freelancer,Hyderabad - Hitech City,Meeting Room,2025-10-16,61,True,16925
+MEM0207,Startup,Bangalore - MG Road,Private Office,2025-08-23,115,True,16781
+MEM0208,SME,Hyderabad - Hitech City,Meeting Room,2025-03-12,279,True,9055
+MEM0209,Enterprise,Mumbai - BKC,Private Office,2025-04-24,236,False,19339
+MEM0210,Startup,Pune - Koregaon Park,Hot Desk,2025-10-19,58,False,6102
+MEM0211,Startup,Pune - Koregaon Park,Hot Desk,2025-10-25,52,False,5724
+MEM0212,SME,Mumbai - BKC,Dedicated Desk,2025-05-24,206,True,17715
+MEM0213,Freelancer,Hyderabad - Hitech City,Private Office,2025-11-17,29,False,16985
+MEM0214,Enterprise,Hyderabad - Hitech City,Private Office,2025-02-24,295,False,19356
+MEM0215,Freelancer,Pune - Koregaon Park,Private Office,2025-10-03,74,False,14121
+MEM0216,Freelancer,Pune - Koregaon Park,Meeting Room,2025-02-16,303,False,10642
+MEM0217,SME,Hyderabad - Hitech City,Private Office,2025-01-20,330,True,11688
+MEM0218,Enterprise,Pune - Koregaon Park,Dedicated Desk,2025-09-30,77,True,12758
+MEM0219,Freelancer,Delhi - Connaught Place,Dedicated Desk,2025-08-14,124,True,19987
+MEM0220,SME,Pune - Koregaon Park,Dedicated Desk,2025-11-16,30,True,9177
+MEM0221,Enterprise,Bangalore - MG Road,Meeting Room,2025-09-02,105,True,6514
+MEM0222,Freelancer,Bangalore - MG Road,Private Office,2025-03-16,275,True,14911
+MEM0223,Startup,Bangalore - MG Road,Dedicated Desk,2025-02-10,309,True,14626
+MEM0224,Freelancer,Pune - Koregaon Park,Dedicated Desk,2025-01-06,344,True,10455
+MEM0225,Startup,Mumbai - BKC,Dedicated Desk,2025-07-13,156,True,6922
+MEM0226,Freelancer,Hyderabad - Hitech City,Dedicated Desk,2025-04-14,246,True,8921
+MEM0227,Enterprise,Delhi - Connaught Place,Meeting Room,2025-03-08,283,True,15628
+MEM0228,Enterprise,Delhi - Connaught Place,Private Office,2025-06-15,184,True,13147
+MEM0229,Startup,Pune - Koregaon Park,Private Office,2025-04-21,239,True,11073
+MEM0230,SME,Bangalore - MG Road,Dedicated Desk,2025-07-08,161,True,5265
+MEM0231,SME,Delhi - Connaught Place,Dedicated Desk,2025-08-04,134,False,8768
+MEM0232,Freelancer,Pune - Koregaon Park,Private Office,2025-06-04,195,False,18460
+MEM0233,SME,Pune - Koregaon Park,Dedicated Desk,2025-04-09,251,True,10770
+MEM0234,Freelancer,Hyderabad - Hitech City,Meeting Room,2025-09-20,87,False,19571
+MEM0235,Startup,Hyderabad - Hitech City,Hot Desk,2025-03-13,278,True,6217
+MEM0236,Startup,Bangalore - MG Road,Meeting Room,2025-01-07,343,False,15333
+MEM0237,Startup,Mumbai - BKC,Hot Desk,2025-08-19,119,False,12471
+MEM0238,Startup,Hyderabad - Hitech City,Meeting Room,2025-06-07,192,True,5257
+MEM0239,SME,Bangalore - MG Road,Hot Desk,2025-12-12,4,True,9501
+MEM0240,Enterprise,Bangalore - MG Road,Meeting Room,2025-03-16,275,True,19905
+MEM0241,Startup,Bangalore - MG Road,Dedicated Desk,2025-09-15,92,False,15154
+MEM0242,Enterprise,Delhi - Connaught Place,Private Office,2025-03-21,270,True,6294
+MEM0243,SME,Pune - Koregaon Park,Dedicated Desk,2025-06-07,192,True,8700
+MEM0244,Startup,Bangalore - MG Road,Hot Desk,2025-07-15,154,True,11179
+MEM0245,SME,Bangalore - MG Road,Hot Desk,2025-03-08,283,True,6354
+MEM0246,SME,Delhi - Connaught Place,Hot Desk,2025-04-04,256,True,5697
+MEM0247,Freelancer,Hyderabad - Hitech City,Meeting Room,2025-08-20,118,False,6218
+MEM0248,Enterprise,Hyderabad - Hitech City,Hot Desk,2024-12-30,351,False,18933
+MEM0249,Startup,Mumbai - BKC,Dedicated Desk,2025-07-07,162,True,16677
+MEM0250,Startup,Delhi - Connaught Place,Dedicated Desk,2025-05-26,204,True,14284
+MEM0251,Enterprise,Pune - Koregaon Park,Dedicated Desk,2025-05-30,200,True,16293
+MEM0252,Enterprise,Bangalore - MG Road,Hot Desk,2025-11-05,41,True,18740
+MEM0253,Enterprise,Hyderabad - Hitech City,Meeting Room,2025-11-07,39,True,10347
+MEM0254,Enterprise,Pune - Koregaon Park,Meeting Room,2025-11-30,16,False,14060
+MEM0255,SME,Mumbai - BKC,Meeting Room,2025-06-06,193,False,15135
+MEM0256,Freelancer,Bangalore - MG Road,Hot Desk,2025-07-17,152,False,11225
+MEM0257,Freelancer,Pune - Koregaon Park,Private Office,2024-12-16,365,True,6499
+MEM0258,Enterprise,Pune - Koregaon Park,Private Office,2025-12-13,3,True,6674
+MEM0259,Startup,Mumbai - BKC,Meeting Room,2025-10-09,68,True,14088
+MEM0260,SME,Bangalore - MG Road,Hot Desk,2025-03-28,263,False,14080
+MEM0261,Enterprise,Pune - Koregaon Park,Hot Desk,2025-10-29,48,False,11353
+MEM0262,Freelancer,Hyderabad - Hitech City,Dedicated Desk,2025-11-02,44,True,7777
+MEM0263,Enterprise,Delhi - Connaught Place,Private Office,2025-10-05,72,True,6036
+MEM0264,SME,Delhi - Connaught Place,Meeting Room,2025-09-21,86,False,17823
+MEM0265,Enterprise,Delhi - Connaught Place,Dedicated Desk,2025-11-06,40,True,13123
+MEM0266,Freelancer,Pune - Koregaon Park,Hot Desk,2025-02-14,305,False,5110
+MEM0267,Enterprise,Hyderabad - Hitech City,Meeting Room,2025-05-27,203,True,10399
+MEM0268,Enterprise,Pune - Koregaon Park,Dedicated Desk,2025-05-04,226,True,14883
+MEM0269,Freelancer,Pune - Koregaon Park,Private Office,2024-12-25,356,False,11524
+MEM0270,Enterprise,Pune - Koregaon Park,Dedicated Desk,2025-07-05,164,True,9592
+MEM0271,Enterprise,Bangalore - MG Road,Dedicated Desk,2025-05-28,202,True,13939
+MEM0272,Startup,Pune - Koregaon Park,Dedicated Desk,2025-09-14,93,True,9773
+MEM0273,Startup,Pune - Koregaon Park,Meeting Room,2024-12-26,355,False,9961
+MEM0274,Enterprise,Mumbai - BKC,Meeting Room,2025-08-14,124,True,6211
+MEM0275,SME,Hyderabad - Hitech City,Meeting Room,2025-04-30,230,True,19248
+MEM0276,SME,Hyderabad - Hitech City,Hot Desk,2024-12-26,355,True,10890
+MEM0277,Startup,Bangalore - MG Road,Dedicated Desk,2024-12-21,360,True,10816
+MEM0278,Startup,Hyderabad - Hitech City,Meeting Room,2025-09-21,86,True,10432
+MEM0279,Startup,Bangalore - MG Road,Hot Desk,2025-05-09,221,False,13366
+MEM0280,Freelancer,Pune - Koregaon Park,Private Office,2025-03-25,266,True,17654
+MEM0281,Freelancer,Delhi - Connaught Place,Hot Desk,2025-01-02,348,True,9840
+MEM0282,Startup,Bangalore - MG Road,Dedicated Desk,2025-05-17,213,True,10620
+MEM0283,Freelancer,Hyderabad - Hitech City,Meeting Room,2025-04-26,234,True,6599
+MEM0284,SME,Delhi - Connaught Place,Hot Desk,2025-05-05,225,True,18274
+MEM0285,Startup,Bangalore - MG Road,Private Office,2024-12-17,364,True,16094
+MEM0286,Freelancer,Hyderabad - Hitech City,Dedicated Desk,2025-09-22,85,True,10422
+MEM0287,SME,Pune - Koregaon Park,Dedicated Desk,2025-03-04,287,True,15317
+MEM0288,Freelancer,Pune - Koregaon Park,Meeting Room,2025-09-12,95,False,15061
+MEM0289,SME,Hyderabad - Hitech City,Meeting Room,2025-09-05,102,True,16546
+MEM0290,Freelancer,Delhi - Connaught Place,Hot Desk,2025-08-28,110,True,18099
+MEM0291,Freelancer,Delhi - Connaught Place,Private Office,2025-03-16,275,False,6867
+MEM0292,SME,Hyderabad - Hitech City,Private Office,2025-08-03,135,True,15015
+MEM0293,Startup,Delhi - Connaught Place,Private Office,2025-05-29,201,True,15114
+MEM0294,Enterprise,Hyderabad - Hitech City,Hot Desk,2025-09-18,89,True,10131
+MEM0295,Freelancer,Delhi - Connaught Place,Hot Desk,2025-10-16,61,False,16361
+MEM0296,SME,Pune - Koregaon Park,Dedicated Desk,2025-10-04,73,True,11931
+MEM0297,SME,Hyderabad - Hitech City,Dedicated Desk,2025-09-11,96,True,13022
+MEM0298,Freelancer,Mumbai - BKC,Private Office,2025-07-21,148,True,15148
+MEM0299,Enterprise,Bangalore - MG Road,Meeting Room,2025-11-18,28,False,18356
+MEM0300,SME,Pune - Koregaon Park,Meeting Room,2025-06-02,197,True,18760
+MEM0301,SME,Mumbai - BKC,Hot Desk,2025-05-02,228,True,18039
+MEM0302,Enterprise,Bangalore - MG Road,Private Office,2025-08-25,113,False,9729
+MEM0303,SME,Hyderabad - Hitech City,Meeting Room,2025-09-20,87,True,6854
+MEM0304,Startup,Delhi - Connaught Place,Private Office,2025-02-25,294,True,17399
+MEM0305,SME,Hyderabad - Hitech City,Dedicated Desk,2025-11-24,22,True,6677
+MEM0306,Freelancer,Delhi - Connaught Place,Hot Desk,2025-01-15,335,True,10711
+MEM0307,SME,Bangalore - MG Road,Dedicated Desk,2025-11-01,45,False,17085
+MEM0308,Enterprise,Hyderabad - Hitech City,Meeting Room,2025-02-17,302,False,7281
+MEM0309,Freelancer,Bangalore - MG Road,Private Office,2025-09-01,106,True,14778
+MEM0310,Freelancer,Delhi - Connaught Place,Private Office,2025-03-15,276,True,9380
+MEM0311,Startup,Mumbai - BKC,Meeting Room,2025-03-27,264,True,9543
+MEM0312,Freelancer,Mumbai - BKC,Dedicated Desk,2025-01-14,336,False,10277
+MEM0313,SME,Pune - Koregaon Park,Dedicated Desk,2025-08-11,127,True,9402
+MEM0314,SME,Pune - Koregaon Park,Meeting Room,2025-01-28,322,False,18018
+MEM0315,SME,Hyderabad - Hitech City,Private Office,2025-10-29,48,True,19373
+MEM0316,SME,Pune - Koregaon Park,Private Office,2025-06-10,189,True,19236
+MEM0317,SME,Delhi - Connaught Place,Hot Desk,2025-10-29,48,True,11516
+MEM0318,SME,Mumbai - BKC,Meeting Room,2025-08-26,112,False,18571
+MEM0319,Enterprise,Hyderabad - Hitech City,Dedicated Desk,2025-07-23,146,True,12951
+MEM0320,Startup,Bangalore - MG Road,Hot Desk,2025-06-23,176,True,18708
+MEM0321,Startup,Bangalore - MG Road,Dedicated Desk,2025-04-24,236,True,5011
+MEM0322,Freelancer,Mumbai - BKC,Private Office,2025-05-10,220,False,19362
+MEM0323,Startup,Delhi - Connaught Place,Private Office,2025-07-28,141,False,15887
+MEM0324,Freelancer,Bangalore - MG Road,Meeting Room,2025-01-17,333,True,16894
+MEM0325,Freelancer,Pune - Koregaon Park,Hot Desk,2024-12-22,359,True,5017
+MEM0326,SME,Bangalore - MG Road,Dedicated Desk,2025-08-28,110,True,13510
+MEM0327,SME,Bangalore - MG Road,Hot Desk,2025-01-01,349,True,18387
+MEM0328,SME,Mumbai - BKC,Meeting Room,2025-10-15,62,False,11276
+MEM0329,Startup,Bangalore - MG Road,Private Office,2025-10-31,46,False,9902
+MEM0330,SME,Mumbai - BKC,Dedicated Desk,2025-10-06,71,False,14228
+MEM0331,Freelancer,Pune - Koregaon Park,Private Office,2025-12-11,5,True,15290
+MEM0332,SME,Hyderabad - Hitech City,Meeting Room,2025-09-29,78,True,6420
+MEM0333,Freelancer,Bangalore - MG Road,Meeting Room,2025-10-25,52,False,12035
+MEM0334,Freelancer,Mumbai - BKC,Private Office,2025-07-07,162,True,9065
+MEM0335,Enterprise,Bangalore - MG Road,Private Office,2025-03-07,284,False,14943
+MEM0336,Freelancer,Pune - Koregaon Park,Private Office,2025-03-30,261,True,17841
+MEM0337,SME,Pune - Koregaon Park,Hot Desk,2025-08-15,123,False,15454
+MEM0338,Startup,Hyderabad - Hitech City,Hot Desk,2025-02-14,305,True,10185
+MEM0339,SME,Hyderabad - Hitech City,Meeting Room,2025-10-09,68,True,16189
+MEM0340,SME,Bangalore - MG Road,Hot Desk,2025-09-18,89,True,5225
+MEM0341,Freelancer,Bangalore - MG Road,Hot Desk,2025-08-03,135,True,11520
+MEM0342,Enterprise,Hyderabad - Hitech City,Meeting Room,2025-03-31,260,True,11590
+MEM0343,Freelancer,Delhi - Connaught Place,Hot Desk,2025-11-03,43,False,13377
+MEM0344,Freelancer,Hyderabad - Hitech City,Private Office,2025-09-02,105,True,15392
+MEM0345,Startup,Delhi - Connaught Place,Meeting Room,2025-01-17,333,True,18868
+MEM0346,Startup,Mumbai - BKC,Hot Desk,2025-08-15,123,True,6900
+MEM0347,Startup,Delhi - Connaught Place,Dedicated Desk,2025-04-27,233,False,16598
+MEM0348,Startup,Mumbai - BKC,Meeting Room,2025-10-06,71,True,13568
+MEM0349,Enterprise,Mumbai - BKC,Private Office,2025-03-26,265,False,17797
+MEM0350,Startup,Bangalore - MG Road,Private Office,2025-07-31,138,True,9456
+MEM0351,Startup,Delhi - Connaught Place,Hot Desk,2025-03-22,269,True,13368
+MEM0352,Startup,Pune - Koregaon Park,Dedicated Desk,2025-06-14,185,True,9179
+MEM0353,Startup,Mumbai - BKC,Hot Desk,2025-10-24,53,False,19138
+MEM0354,Freelancer,Bangalore - MG Road,Meeting Room,2025-12-09,7,False,7458
+MEM0355,Startup,Hyderabad - Hitech City,Meeting Room,2025-09-15,92,False,9067
+MEM0356,Enterprise,Delhi - Connaught Place,Hot Desk,2025-05-16,214,True,6956
+MEM0357,Startup,Mumbai - BKC,Dedicated Desk,2025-04-02,258,True,5752
+MEM0358,Startup,Pune - Koregaon Park,Private Office,2025-05-24,206,True,10090
+MEM0359,Startup,Hyderabad - Hitech City,Meeting Room,2025-07-01,168,False,8287
+MEM0360,Enterprise,Hyderabad - Hitech City,Dedicated Desk,2025-07-19,150,True,14694
+MEM0361,Freelancer,Hyderabad - Hitech City,Dedicated Desk,2025-04-07,253,False,11718
+MEM0362,Freelancer,Hyderabad - Hitech City,Private Office,2025-12-03,13,True,16361
+MEM0363,Enterprise,Bangalore - MG Road,Meeting Room,2025-12-11,5,True,16914
+MEM0364,Startup,Mumbai - BKC,Dedicated Desk,2025-07-11,158,True,5981
+MEM0365,Enterprise,Bangalore - MG Road,Hot Desk,2025-10-04,73,True,19701
+MEM0366,SME,Delhi - Connaught Place,Meeting Room,2025-03-24,267,True,6391
+MEM0367,Startup,Hyderabad - Hitech City,Dedicated Desk,2025-02-21,298,True,11461
+MEM0368,Startup,Pune - Koregaon Park,Dedicated Desk,2025-11-07,39,False,9276
+MEM0369,SME,Delhi - Connaught Place,Private Office,2025-07-07,162,True,8827
+MEM0370,Freelancer,Mumbai - BKC,Hot Desk,2025-11-07,39,False,7693
+MEM0371,SME,Delhi - Connaught Place,Meeting Room,2025-04-29,231,False,10870
+MEM0372,SME,Delhi - Connaught Place,Meeting Room,2025-08-31,107,False,6964
+MEM0373,Freelancer,Delhi - Connaught Place,Hot Desk,2025-10-30,47,False,19034
+MEM0374,Freelancer,Bangalore - MG Road,Dedicated Desk,2025-07-01,168,True,11492
+MEM0375,Startup,Delhi - Connaught Place,Private Office,2025-03-28,263,True,7848
+MEM0376,SME,Pune - Koregaon Park,Dedicated Desk,2025-11-30,16,False,6669
+MEM0377,Startup,Bangalore - MG Road,Hot Desk,2025-10-05,72,True,8641
+MEM0378,Freelancer,Pune - Koregaon Park,Private Office,2025-10-10,67,True,15562
+MEM0379,Enterprise,Bangalore - MG Road,Hot Desk,2025-11-02,44,True,8239
+MEM0380,SME,Mumbai - BKC,Hot Desk,2025-01-19,331,True,18588
+MEM0381,Startup,Bangalore - MG Road,Meeting Room,2025-06-29,170,False,14402
+MEM0382,SME,Pune - Koregaon Park,Hot Desk,2025-05-08,222,True,11990
+MEM0383,Enterprise,Mumbai - BKC,Dedicated Desk,2025-09-18,89,False,12307
+MEM0384,Startup,Hyderabad - Hitech City,Dedicated Desk,2025-09-30,77,True,13173
+MEM0385,SME,Bangalore - MG Road,Hot Desk,2025-05-19,211,False,7248
+MEM0386,Freelancer,Hyderabad - Hitech City,Dedicated Desk,2025-05-15,215,True,18142
+MEM0387,Startup,Pune - Koregaon Park,Private Office,2025-03-12,279,True,17803
+MEM0388,Enterprise,Hyderabad - Hitech City,Private Office,2025-04-11,249,True,7946
+MEM0389,Enterprise,Hyderabad - Hitech City,Dedicated Desk,2025-12-02,14,False,18282
+MEM0390,Startup,Pune - Koregaon Park,Private Office,2025-07-25,144,True,8813
+MEM0391,Startup,Mumbai - BKC,Dedicated Desk,2025-09-25,82,False,18374
+MEM0392,Freelancer,Hyderabad - Hitech City,Meeting Room,2025-11-17,29,False,18749
+MEM0393,Freelancer,Mumbai - BKC,Private Office,2025-09-18,89,True,16429
+MEM0394,Startup,Delhi - Connaught Place,Dedicated Desk,2025-06-15,184,True,8084
+MEM0395,Enterprise,Mumbai - BKC,Meeting Room,2025-04-07,253,False,5920
+MEM0396,Freelancer,Bangalore - MG Road,Meeting Room,2025-08-18,120,False,15061
+MEM0397,Freelancer,Delhi - Connaught Place,Dedicated Desk,2025-09-03,104,True,18832
+MEM0398,Startup,Bangalore - MG Road,Dedicated Desk,2025-07-03,166,True,7320
+MEM0399,Enterprise,Bangalore - MG Road,Private Office,2025-10-20,57,True,15848
+MEM0400,Startup,Delhi - Connaught Place,Private Office,2025-05-27,203,True,7580
+MEM0401,SME,Delhi - Connaught Place,Dedicated Desk,2025-05-06,224,True,14207
+MEM0402,Enterprise,Mumbai - BKC,Dedicated Desk,2024-12-25,356,True,17025
+MEM0403,Enterprise,Mumbai - BKC,Dedicated Desk,2024-12-28,353,True,16501
+MEM0404,SME,Hyderabad - Hitech City,Hot Desk,2025-02-25,294,False,10213
+MEM0405,Freelancer,Hyderabad - Hitech City,Hot Desk,2025-02-05,314,True,7304
+MEM0406,Startup,Mumbai - BKC,Private Office,2025-06-29,170,True,7750
+MEM0407,Startup,Delhi - Connaught Place,Meeting Room,2025-01-24,326,False,8435
+MEM0408,Startup,Delhi - Connaught Place,Private Office,2025-08-10,128,True,16803
+MEM0409,Startup,Pune - Koregaon Park,Meeting Room,2025-12-15,1,True,7725
+MEM0410,SME,Pune - Koregaon Park,Private Office,2025-05-18,212,True,6661
+MEM0411,Freelancer,Mumbai - BKC,Meeting Room,2025-04-14,246,False,18856
+MEM0412,Enterprise,Bangalore - MG Road,Private Office,2025-11-28,18,False,6715
+MEM0413,Enterprise,Mumbai - BKC,Meeting Room,2025-11-08,38,False,6228
+MEM0414,Startup,Delhi - Connaught Place,Meeting Room,2025-03-10,281,True,12066
+MEM0415,Freelancer,Hyderabad - Hitech City,Meeting Room,2025-01-15,335,False,6659
+MEM0416,Freelancer,Mumbai - BKC,Meeting Room,2025-06-29,170,True,16829
+MEM0417,Enterprise,Delhi - Connaught Place,Private Office,2025-03-14,277,False,5813
+MEM0418,SME,Mumbai - BKC,Hot Desk,2025-05-28,202,True,12005
+MEM0419,Enterprise,Hyderabad - Hitech City,Meeting Room,2025-11-01,45,False,5421
+MEM0420,Freelancer,Delhi - Connaught Place,Hot Desk,2025-09-01,106,True,6892
+MEM0421,SME,Pune - Koregaon Park,Meeting Room,2025-07-11,158,True,9341
+MEM0422,SME,Mumbai - BKC,Private Office,2025-10-30,47,True,11052
+MEM0423,SME,Bangalore - MG Road,Private Office,2025-09-11,96,True,9315
+MEM0424,Enterprise,Hyderabad - Hitech City,Hot Desk,2025-08-22,116,False,16410
+MEM0425,Startup,Bangalore - MG Road,Private Office,2025-01-08,342,True,11782
+MEM0426,Freelancer,Hyderabad - Hitech City,Hot Desk,2025-02-17,302,True,18408
+MEM0427,SME,Hyderabad - Hitech City,Meeting Room,2025-03-23,268,True,8860
+MEM0428,Enterprise,Bangalore - MG Road,Meeting Room,2025-04-16,244,True,16703
+MEM0429,Freelancer,Bangalore - MG Road,Meeting Room,2025-11-28,18,False,7738
+MEM0430,Freelancer,Mumbai - BKC,Hot Desk,2025-08-29,109,True,16192
+MEM0431,Freelancer,Mumbai - BKC,Private Office,2025-05-07,223,True,16912
+MEM0432,Startup,Pune - Koregaon Park,Meeting Room,2025-11-11,35,True,19034
+MEM0433,SME,Bangalore - MG Road,Meeting Room,2025-07-27,142,False,7451
+MEM0434,Startup,Bangalore - MG Road,Hot Desk,2025-10-01,76,True,19212
+MEM0435,Enterprise,Pune - Koregaon Park,Private Office,2025-03-16,275,True,12955
+MEM0436,SME,Bangalore - MG Road,Dedicated Desk,2025-02-26,293,True,7356
+MEM0437,SME,Bangalore - MG Road,Meeting Room,2025-02-02,317,True,10431
+MEM0438,Freelancer,Bangalore - MG Road,Meeting Room,2024-12-27,354,True,19696
+MEM0439,Startup,Delhi - Connaught Place,Private Office,2025-06-08,191,True,18809
+MEM0440,Startup,Mumbai - BKC,Dedicated Desk,2025-04-08,252,True,17185
+MEM0441,Enterprise,Delhi - Connaught Place,Meeting Room,2025-05-03,227,True,6462
+MEM0442,SME,Mumbai - BKC,Meeting Room,2025-09-10,97,True,17443
+MEM0443,Enterprise,Bangalore - MG Road,Dedicated Desk,2025-03-26,265,False,16625
+MEM0444,SME,Mumbai - BKC,Hot Desk,2025-03-31,260,False,19338
+MEM0445,Startup,Mumbai - BKC,Hot Desk,2025-09-04,103,True,10904
+MEM0446,Freelancer,Delhi - Connaught Place,Private Office,2024-12-20,361,True,13275
+MEM0447,Startup,Bangalore - MG Road,Dedicated Desk,2025-05-26,204,True,14732
+MEM0448,Freelancer,Pune - Koregaon Park,Private Office,2025-05-01,229,True,18724
+MEM0449,Startup,Delhi - Connaught Place,Hot Desk,2025-08-05,133,True,7669
+MEM0450,Freelancer,Mumbai - BKC,Dedicated Desk,2025-02-26,293,True,9408
+MEM0451,SME,Hyderabad - Hitech City,Hot Desk,2025-01-16,334,True,17575
+MEM0452,Startup,Pune - Koregaon Park,Dedicated Desk,2024-12-31,350,True,14849
+MEM0453,Freelancer,Delhi - Connaught Place,Private Office,2025-12-11,5,True,16622
+MEM0454,Enterprise,Pune - Koregaon Park,Meeting Room,2025-01-20,330,True,12520
+MEM0455,Freelancer,Pune - Koregaon Park,Private Office,2025-08-08,130,True,18505
+MEM0456,SME,Hyderabad - Hitech City,Hot Desk,2025-01-30,320,False,15852
+MEM0457,Enterprise,Delhi - Connaught Place,Hot Desk,2025-06-07,192,True,10509
+MEM0458,Enterprise,Delhi - Connaught Place,Private Office,2025-07-27,142,True,19620
+MEM0459,Enterprise,Mumbai - BKC,Dedicated Desk,2025-01-16,334,True,8937
+MEM0460,SME,Delhi - Connaught Place,Dedicated Desk,2025-11-16,30,True,15738
+MEM0461,Enterprise,Delhi - Connaught Place,Meeting Room,2025-04-05,255,True,17070
+MEM0462,Freelancer,Delhi - Connaught Place,Dedicated Desk,2025-11-27,19,True,15458
+MEM0463,Enterprise,Hyderabad - Hitech City,Private Office,2025-04-16,244,True,18773
+MEM0464,Freelancer,Delhi - Connaught Place,Hot Desk,2025-01-13,337,True,17139
+MEM0465,Freelancer,Delhi - Connaught Place,Hot Desk,2025-08-05,133,False,8659
+MEM0466,SME,Delhi - Connaught Place,Private Office,2025-07-11,158,False,9817
+MEM0467,Startup,Pune - Koregaon Park,Hot Desk,2025-04-22,238,True,14561
+MEM0468,Startup,Pune - Koregaon Park,Dedicated Desk,2025-02-21,298,True,19213
+MEM0469,SME,Hyderabad - Hitech City,Private Office,2025-01-01,349,True,19267
+MEM0470,Freelancer,Mumbai - BKC,Private Office,2025-09-29,78,True,14329
+MEM0471,Freelancer,Delhi - Connaught Place,Dedicated Desk,2025-04-25,235,True,12988
+MEM0472,Freelancer,Delhi - Connaught Place,Hot Desk,2025-06-28,171,False,9481
+MEM0473,Freelancer,Hyderabad - Hitech City,Dedicated Desk,2025-08-30,108,True,17510
+MEM0474,Freelancer,Hyderabad - Hitech City,Meeting Room,2025-10-31,46,True,11609
+MEM0475,SME,Pune - Koregaon Park,Hot Desk,2025-05-10,220,False,8267
+MEM0476,Startup,Delhi - Connaught Place,Dedicated Desk,2025-06-07,192,False,5067
+MEM0477,Freelancer,Mumbai - BKC,Private Office,2025-01-29,321,True,6682
+MEM0478,Enterprise,Mumbai - BKC,Hot Desk,2025-06-02,197,True,9885
+MEM0479,SME,Hyderabad - Hitech City,Private Office,2025-07-20,149,True,16252
+MEM0480,Enterprise,Pune - Koregaon Park,Private Office,2025-10-08,69,True,7701
+MEM0481,Startup,Mumbai - BKC,Dedicated Desk,2025-05-23,207,True,7149
+MEM0482,Startup,Hyderabad - Hitech City,Dedicated Desk,2025-08-29,109,False,16650
+MEM0483,Startup,Pune - Koregaon Park,Private Office,2025-01-16,334,True,15209
+MEM0484,Startup,Bangalore - MG Road,Hot Desk,2025-11-21,25,False,6897
+MEM0485,SME,Pune - Koregaon Park,Hot Desk,2025-05-16,214,True,12772
+MEM0486,Freelancer,Mumbai - BKC,Hot Desk,2024-12-21,360,True,15840
+MEM0487,Enterprise,Hyderabad - Hitech City,Dedicated Desk,2025-10-25,52,True,19723
+MEM0488,Startup,Delhi - Connaught Place,Hot Desk,2025-10-23,54,True,13154
+MEM0489,Freelancer,Delhi - Connaught Place,Dedicated Desk,2025-09-05,102,True,11713
+MEM0490,Freelancer,Bangalore - MG Road,Meeting Room,2025-07-17,152,True,16275
+MEM0491,Enterprise,Mumbai - BKC,Hot Desk,2025-04-13,247,False,6458
+MEM0492,SME,Mumbai - BKC,Hot Desk,2025-10-20,57,True,6229
+MEM0493,Enterprise,Mumbai - BKC,Meeting Room,2025-10-25,52,True,9850
+MEM0494,SME,Bangalore - MG Road,Hot Desk,2025-08-02,136,True,19321
+MEM0495,Enterprise,Delhi - Connaught Place,Private Office,2025-11-25,21,True,6898
+MEM0496,Startup,Bangalore - MG Road,Dedicated Desk,2025-10-28,49,True,7793
+MEM0497,Enterprise,Pune - Koregaon Park,Private Office,2025-06-30,169,True,6522
+MEM0498,Enterprise,Mumbai - BKC,Hot Desk,2025-06-08,191,True,12479
+MEM0499,SME,Pune - Koregaon Park,Meeting Room,2025-07-29,140,True,18056
+MEM0500,Startup,Mumbai - BKC,Hot Desk,2025-09-21,86,True,18833

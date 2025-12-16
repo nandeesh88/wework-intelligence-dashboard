@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>WeWork Intelligence Dashboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- React -->
+  <script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
+
+  <!-- Babel -->
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+  <!-- Tailwind -->
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-slate-900">
+  <div id="root"></div>
+
+  <!-- React Code -->
+  <script type="text/babel">
+    function WeWorkDashboard() {
+      const [selectedLocation, setSelectedLocation] = React.useState('All Locations');
+      const [aiInsights, setAiInsights] = React.useState('');
+      const [loading, setLoading] = React.useState(false);
+
+      const locations = [
+        'All Locations',
+        'Bangalore - MG Road',
+        'Mumbai - BKC',
+        'Delhi - Connaught Place',
+        'Pune - Koregaon Park'
+      ];
+
+      const generateOccupancyData = () =>
+        ['Mon','Tue','Wed','Thu','Fri','Sat','Sun'].map(day => ({
+          day,
+          occupancy: Math.floor(Math.random() * 30) + 65
+        }));
+
+      const generateHourlyData = () =>
+        ['9AM','10AM','11AM','12PM','1PM','2PM','3PM','4PM','5PM','6PM','7PM']
+        .map(hour => ({
+          hour,
+          utilization: Math.floor(Math.random() * 40) + 50
+        }));
+
+      const generateAIInsights = () => {
+        setLoading(true);
+        setTimeout(() => {
+          setAiInsights(
+            "• Peak utilization between 11 AM – 3 PM\n" +
+            "• Consider premium pricing for hot desks\n" +
+            "• Improve meeting room utilization during off-peak hours"
+          );
+          setLoading(false);
+        }, 1200);
+      };
+
+      return (
+        <div className="p-6 text-white">
+          <h1 className="text-4xl font-bold mb-2">WeWork Intelligence Dashboard</h1>
+          <p className="text-slate-300 mb-6">Workspace Occupancy & Revenue Analytics</p>
+
+          <div className="flex gap-4 mb-6">
+            <select
+              className="bg-slate-700 p-2 rounded"
+              value={selectedLocation}
+              onChange={e => setSelectedLocation(e.target.value)}
+            >
+              {locations.map(l => <option key={l}>{l}</option>)}
+            </select>
+
+            <button
+              onClick={generateAIInsights}
+              className="bg-blue-600 px-4 py-2 rounded"
+            >
+              {loading ? 'Analyzing...' : 'Generate AI Insights'}
+            </button>
+          </div>
+
+          {aiInsights && (
+            <div className="bg-slate-800 p-4 rounded mb-6 whitespace-pre-line">
+              {aiInsights}
+            </div>
+          )}
+
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+
+            {/* Weekly Occupancy */}
+            <div className="bg-slate-800 p-4 rounded">
+              <h2 className="mb-2 font-semibold">Weekly Occupancy (%)</h2>
+              {generateOccupancyData().map(d => (
+                <div key={d.day} className="mb-1">
+                  <span className="text-sm">{d.day}</span>
+                  <div className="bg-slate-700 h-3 rounded">
+                    <div
+                      className="bg-blue-500 h-3 rounded"
+                      style={{ width: `${d.occupancy}%` }}
+                    />
+                  </div>
+                </div>
+              ))}
+            </div>
+
+            {/* Hourly Utilization */}
+            <div className="bg-slate-800 p-4 rounded">
+              <h2 className="mb-2 font-semibold">Hourly Utilization (%)</h2>
+              {generateHourlyData().map(d => (
+                <div key={d.hour} className="mb-1">
+                  <span className="text-sm">{d.hour}</span>
+                  <div className="bg-slate-700 h-3 rounded">
+                    <div
+                      className="bg-green-500 h-3 rounded"
+                      style={{ width: `${d.utilization}%` }}
+                    />
+                  </div>
+                </div>
+              ))}
+            </div>
+
+          </div>
+        </div>
+      );
+    }
+
+    const root = ReactDOM.createRoot(document.getElementById('root'));
+    root.render(<WeWorkDashboard />);
+  </script>
+</body>
+</html>
